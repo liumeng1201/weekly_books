@@ -60,3 +60,15 @@ GET_DIR()
 echo "=> "`date`". Start sync book."
 curl $BOOK_DIR_URL | grep 'li data-name="week' | while read line; do GET_DIR "$line"; done
 echo "=> "`date`". End sync book."
+
+#-- push to server --#
+echo "=> "`date`". Start push to server."
+cd $STORE_DIR
+git add .
+git commit -m "update"
+git push
+if [[ $? -ne 0 ]];then
+    echo "=> Push to server failed."
+else
+    echo "=> Push to server success."
+fi
