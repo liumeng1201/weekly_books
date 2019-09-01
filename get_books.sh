@@ -60,7 +60,8 @@ GET_DIR()
 echo "=> "`date`". Start sync book."
 curl $BOOK_DIR_URL | grep 'li data-name="week' | while read line; do GET_DIR "$line"; done
 echo "=> "`date`". End sync book."
-
+echo ""
+echo ""
 #-- push to server --#
 echo "=> "`date`". Start push to server."
 cd $STORE_DIR
