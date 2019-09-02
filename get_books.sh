@@ -5,6 +5,8 @@ BOOK_DIR_URL=`echo $BASE_URL"?dir=%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B9%A6"`
 
 STORE_DIR="/home/lm/books"
 
+cd $STORE_DIR
+
 DOWNLOAD_BOOK()
 {
     DIR=`echo $STORE_DIR"/"$1`
@@ -19,6 +21,7 @@ DOWNLOAD_BOOK()
 
     downloadurl=`echo $BASE_URL${ARR[3]}`
     filepath=`echo $DIR"/"$filename`
+    echo $filepath
     if [[ ! -f $filepath ]];then
         wget -O $filepath $downloadurl
         if [[ $? -ne 0 ]];then
