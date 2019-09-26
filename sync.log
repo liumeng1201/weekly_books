@@ -1,12 +1,12 @@
-=> Thu Sep 26 02:00:01 CST 2019. Change work dir.
+=> Fri Sep 27 02:00:01 CST 2019. Change work dir.
 
-=> Thu Sep 26 02:00:01 CST 2019. Start sync book.
+=> Fri Sep 27 02:00:01 CST 2019. Start sync book.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0=> Dir week01_字体故事 Exist. Skip.
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0=> Dir week01_字体故事 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11897    0 11897    0     0  80355      0 --:--:-- --:--:-- --:--:-- 80931
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11897    0 11897    0     0  79417      0 --:--:-- --:--:-- --:--:-- 79313
 => Start download 字体故事.azw3 ...
 /home/lm/books/week01_字体故事/字体故事.azw3
 => 字体故事.azw3 exist. Skip.
@@ -23,8 +23,8 @@
 => Dir week02_二手时间 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  137k    0  137k    0     0   245k      0 --:--:-- --:--:-- --:--:--  245k
-100 11901    0 11901    0     0  91543      0 --:--:-- --:--:-- --:--:-- 92255
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  127k    0  127k    0     0   267k      0 --:--:-- --:--:-- --:--:--  266k100  140k    0  140k    0     0   286k      0 --:--:-- --:--:-- --:--:--  286k
+100 11901    0 11901    0     0  80029      0 --:--:-- --:--:-- --:--:-- 80412
 => Start download 二手时间.azw3 ...
 /home/lm/books/week02_二手时间/二手时间.azw3
 => 二手时间.azw3 exist. Skip.
@@ -41,7 +41,7 @@
 => Dir week03_万万没想到 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13920    0 13920    0     0   103k      0 --:--:-- --:--:-- --:--:--  103k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13920    0 13920    0     0  99869      0 --:--:-- --:--:-- --:--:--   97k
 => Start download 万万没想到-万维刚.azw3 ...
 /home/lm/books/week03_万万没想到/万万没想到-万维刚.azw3
 => 万万没想到-万维刚.azw3 exist. Skip.
@@ -61,7 +61,7 @@
 => Dir week04-最好的告别 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12013    0 12013    0     0  80381      0 --:--:-- --:--:-- --:--:-- 80624
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12013    0 12013    0     0  86529      0 --:--:-- --:--:-- --:--:-- 87050
 => Start download 最好的告别：关于衰老与死亡，你必须知道的常识.azw3 ...
 /home/lm/books/week04-最好的告别/最好的告别：关于衰老与死亡，你必须知道的常识.azw3
 => 最好的告别：关于衰老与死亡，你必须知道的常识.azw3 exist. Skip.
@@ -75,7 +75,7 @@
 => Dir week05_动物农场 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10904    0 10904    0     0  75739      0 --:--:-- --:--:-- --:--:-- 76251
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10904    0 10904    0     0  89279      0 --:--:-- --:--:-- --:--:-- 90115
 => Start download 动物农场(译文经典).azw3 ...
 /home/lm/books/week05_动物农场/动物农场(译文经典).azw3
 => 动物农场(译文经典).azw3 exist. Skip.
@@ -89,7 +89,7 @@
 => Dir week06_第三种猩猩 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10715    0 10715    0     0  78031      0 --:--:-- --:--:-- --:--:-- 78211
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10715    0 10715    0     0  93067      0 --:--:-- --:--:-- --:--:-- 93173
 => Start download 第三种黑猩猩.azw3 ...
 /home/lm/books/week06_第三种猩猩/第三种黑猩猩.azw3
 => 第三种黑猩猩.azw3 exist. Skip.
@@ -103,7 +103,7 @@
 => Dir week07_斯通纳(一个普通人的传记) Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10878    0 10878    0     0  78782      0 --:--:-- --:--:-- --:--:-- 79401
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10878    0 10878    0     0  76856      0 --:--:-- --:--:-- --:--:-- 77148
 => Start download 斯通纳.azw3 ...
 /home/lm/books/week07_斯通纳(一个普通人的传记)/斯通纳.azw3
 => 斯通纳.azw3 exist. Skip.
@@ -117,7 +117,7 @@
 => Dir week08_学会提问 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10499    0 10499    0     0  83658      0 --:--:-- --:--:-- --:--:-- 83992
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10499    0 10499    0     0  81267      0 --:--:-- --:--:-- --:--:-- 81387
 => Start download 学会提问.azw3 ...
 /home/lm/books/week08_学会提问/学会提问.azw3
 => 学会提问.azw3 exist. Skip.
@@ -131,7 +131,7 @@
 => Dir week09_中国人的气质 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12670    0 12670    0     0   108k      0 --:--:-- --:--:-- --:--:--  109k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12670    0 12670    0     0  87590      0 --:--:-- --:--:-- --:--:-- 87986
 => Start download [每周一书]《中国人的气质》换个角度看中国人.txt ...
 /home/lm/books/week09_中国人的气质/[每周一书]《中国人的气质》换个角度看中国人.txt
 => [每周一书]《中国人的气质》换个角度看中国人.txt exist. Skip.
@@ -148,7 +148,7 @@
 => Dir week10_写给大家看的设计书 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14327    0 14327    0     0   101k      0 --:--:-- --:--:-- --:--:--  102k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14327    0 14327    0     0   106k      0 --:--:-- --:--:-- --:--:--  106k
 => Start download 写给大家看的设计书.azw3 ...
 /home/lm/books/week10_写给大家看的设计书/写给大家看的设计书.azw3
 => 写给大家看的设计书.azw3 exist. Skip.
@@ -168,7 +168,7 @@
 => Dir week11_稀缺 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10211    0 10211    0     0  70217      0 --:--:-- --:--:-- --:--:-- 69938
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10211    0 10211    0     0  77021      0 --:--:-- --:--:-- --:--:-- 77356
 => Start download 稀缺.azw3 ...
 /home/lm/books/week11_稀缺/稀缺.azw3
 => 稀缺.azw3 exist. Skip.
@@ -182,7 +182,7 @@
 => Dir week12_别处生活 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10493    0 10493    0     0  71080      0 --:--:-- --:--:-- --:--:-- 71380
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10493    0 10493    0     0  95587      0 --:--:-- --:--:-- --:--:-- 95390
 => Start download 别处生活.azw3 ...
 /home/lm/books/week12_别处生活/别处生活.azw3
 => 别处生活.azw3 exist. Skip.
@@ -196,7 +196,7 @@
 => Dir week13_一炮走红的国家 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12850    0 12850    0     0  93792      0 --:--:-- --:--:-- --:--:-- 94485
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12850    0 12850    0     0    98k      0 --:--:-- --:--:-- --:--:--   98k
 => Start download [每周一书]《一炮走红的国家》钱还能去哪儿呢？.txt ...
 /home/lm/books/week13_一炮走红的国家/[每周一书]《一炮走红的国家》钱还能去哪儿呢？.txt
 => [每周一书]《一炮走红的国家》钱还能去哪儿呢？.txt exist. Skip.
@@ -213,7 +213,7 @@
 => Dir week14_无后为大 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12529    0 12529    0     0  96760      0 --:--:-- --:--:-- --:--:-- 97124
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12529    0 12529    0     0  86548      0 --:--:-- --:--:-- --:--:-- 87006
 => Start download [每周一书]《无后为大》不只是生与不生的问题.txt ...
 /home/lm/books/week14_无后为大/[每周一书]《无后为大》不只是生与不生的问题.txt
 => [每周一书]《无后为大》不只是生与不生的问题.txt exist. Skip.
@@ -230,7 +230,7 @@
 => Dir week15_那些古怪又让人忧心的问题 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13803    0 13803    0     0   112k      0 --:--:-- --:--:-- --:--:--  113k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13803    0 13803    0     0  90776      0 --:--:-- --:--:-- --:--:-- 91410
 => Start download Whatif：那些古怪又让人忧心的问题.azw3 ...
 /home/lm/books/week15_那些古怪又让人忧心的问题/Whatif：那些古怪又让人忧心的问题.azw3
 => Whatif：那些古怪又让人忧心的问题.azw3 exist. Skip.
@@ -247,7 +247,7 @@
 => Dir week16_与中国打交道 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13712    0 13712    0     0  91723      0 --:--:-- --:--:-- --:--:-- 92026
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13712    0 13712    0     0  92659      0 --:--:-- --:--:-- --:--:-- 93278
 => Start download pack.zip ...
 /home/lm/books/week16_与中国打交道/pack.zip
 => pack.zip exist. Skip.
@@ -267,7 +267,7 @@
 => Dir week17_黑旗 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10211    0 10211    0     0  68806      0 --:--:-- --:--:-- --:--:-- 68530
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10211    0 10211    0     0  85188      0 --:--:-- --:--:-- --:--:-- 85806
 => Start download 黑旗.azw3 ...
 /home/lm/books/week17_黑旗/黑旗.azw3
 => 黑旗.azw3 exist. Skip.
@@ -281,7 +281,7 @@
 => Dir week18_我们仨 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13550    0 13550    0     0  88777      0 --:--:-- --:--:-- --:--:-- 89144
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13550    0 13550    0     0   111k      0 --:--:-- --:--:-- --:--:--  112k
 => Start download [每周一书]《我们仨》杨绛先生的生活回忆录.txt ...
 /home/lm/books/week18_我们仨/[每周一书]《我们仨》杨绛先生的生活回忆录.txt
 => [每周一书]《我们仨》杨绛先生的生活回忆录.txt exist. Skip.
@@ -301,7 +301,7 @@
 => Dir week19_怎么让大明变得透明 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11795    0 11795    0     0  90061      0 --:--:-- --:--:-- --:--:-- 90730
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11795    0 11795    0     0  79002      0 --:--:-- --:--:-- --:--:-- 79161
 => Start download 怎么让大明变得透明_马伯庸_开源书籍.epub ...
 /home/lm/books/week19_怎么让大明变得透明/怎么让大明变得透明_马伯庸_开源书籍.epub
 => 怎么让大明变得透明_马伯庸_开源书籍.epub exist. Skip.
@@ -315,7 +315,7 @@
 => Dir week20_美国种族简史 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12273    0 12273    0     0   100k      0 --:--:-- --:--:-- --:--:--  100k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12273    0 12273    0     0  89338      0 --:--:-- --:--:-- --:--:-- 89583
 => Start download 美国种族简史.azw3 ...
 /home/lm/books/week20_美国种族简史/美国种族简史.azw3
 => 美国种族简史.azw3 exist. Skip.
@@ -332,7 +332,7 @@
 => Dir week21_明智行动的艺术 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10916    0 10916    0     0  93748      0 --:--:-- --:--:-- --:--:-- 94103
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10916    0 10916    0     0  77901      0 --:--:-- --:--:-- --:--:-- 78532
 => Start download 明智行动的艺术.azw3 ...
 /home/lm/books/week21_明智行动的艺术/明智行动的艺术.azw3
 => 明智行动的艺术.azw3 exist. Skip.
@@ -346,7 +346,7 @@
 => Dir week22_这本书能让你睡得好 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11198    0 11198    0     0  75708      0 --:--:-- --:--:-- --:--:-- 76176
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11198    0 11198    0     0  75980      0 --:--:-- --:--:-- --:--:-- 76176
 => Start download 这本书能让你睡得好.azw3 ...
 /home/lm/books/week22_这本书能让你睡得好/这本书能让你睡得好.azw3
 => 这本书能让你睡得好.azw3 exist. Skip.
@@ -360,7 +360,7 @@
 => Dir week23-只是为了好玩 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12194    0 12194    0     0  86875      0 --:--:-- --:--:-- --:--:-- 87100
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12194    0 12194    0     0   102k      0 --:--:-- --:--:-- --:--:--  101k
 => Start download week24_疾病的隐喻 ...
 /home/lm/books/week23-只是为了好玩/week24_疾病的隐喻
 => week24_疾病的隐喻 exist. Skip.
@@ -377,7 +377,7 @@
 => Dir week24_疾病的隐喻 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10640    0 10640    0     0  77725      0 --:--:-- --:--:-- --:--:-- 78235
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10640    0 10640    0     0  77960      0 --:--:-- --:--:-- --:--:-- 78235
 => Start download 疾病的隐喻.azw3 ...
 /home/lm/books/week24_疾病的隐喻/疾病的隐喻.azw3
 => 疾病的隐喻.azw3 exist. Skip.
@@ -391,7 +391,7 @@
 => Dir week25_大集市与教堂 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12697    0 12697    0     0  94627      0 --:--:-- --:--:-- --:--:-- 94753
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12697    0 12697    0     0  93156      0 --:--:-- --:--:-- --:--:-- 93360
 => Start download [每周一书]《大教堂与集市》开源运动的独立宣言.txt ...
 /home/lm/books/week25_大集市与教堂/[每周一书]《大教堂与集市》开源运动的独立宣言.txt
 => [每周一书]《大教堂与集市》开源运动的独立宣言.txt exist. Skip.
@@ -408,7 +408,7 @@
 => Dir week26_癌症·真相：医生也在读 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11433    0 11433    0     0  97799      0 --:--:-- --:--:-- --:--:-- 98560
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11433    0 11433    0     0  88878      0 --:--:-- --:--:-- --:--:-- 89320
 => Start download 癌症·真相：医生也在读.azw3 ...
 /home/lm/books/week26_癌症·真相：医生也在读/癌症·真相：医生也在读.azw3
 => 癌症·真相：医生也在读.azw3 exist. Skip.
@@ -422,7 +422,7 @@
 => Dir week27_我与地坛 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12298    0 12298    0     0   105k      0 --:--:-- --:--:-- --:--:--  106k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12298    0 12298    0     0  83629      0 --:--:-- --:--:-- --:--:-- 84232
 => Start download [每周一书]《我与地坛》从绝望中寻求希望.txt ...
 /home/lm/books/week27_我与地坛/[每周一书]《我与地坛》从绝望中寻求希望.txt
 => [每周一书]《我与地坛》从绝望中寻求希望.txt exist. Skip.
@@ -439,7 +439,7 @@
 => Dir week28_大路 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12865    0 12865    0     0  96278      0 --:--:-- --:--:-- --:--:-- 96729
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12865    0 12865    0     0  88758      0 --:--:-- --:--:-- --:--:-- 89340
 => Start download [每周一书]《大路》高速中国里的工地纪事.txt ...
 /home/lm/books/week28_大路/[每周一书]《大路》高速中国里的工地纪事.txt
 => [每周一书]《大路》高速中国里的工地纪事.txt exist. Skip.
@@ -456,7 +456,7 @@
 => Dir week29_论可能生活 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13994    0 13994    0     0    98k      0 --:--:-- --:--:-- --:--:--   99k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13994    0 13994    0     0   109k      0 --:--:-- --:--:-- --:--:--  109k
 => Start download [每周一书]《论可能生活》从伦理学读生活的意义.txt ...
 /home/lm/books/week29_论可能生活/[每周一书]《论可能生活》从伦理学读生活的意义.txt
 => [每周一书]《论可能生活》从伦理学读生活的意义.txt exist. Skip.
@@ -476,7 +476,7 @@
 => Dir week30_十杆枪 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15446    0 15446    0     0   104k      0 --:--:-- --:--:-- --:--:--  105k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15446    0 15446    0     0   123k      0 --:--:-- --:--:-- --:--:--  123k
 => Start download 十杆枪：从独立战争到西部拓荒的美国勇敢冒险史.azw3 ...
 /home/lm/books/week30_十杆枪/十杆枪：从独立战争到西部拓荒的美国勇敢冒险史.azw3
 => 十杆枪：从独立战争到西部拓荒的美国勇敢冒险史.azw3 exist. Skip.
@@ -496,7 +496,7 @@
 => Dir week31_简洁的力量 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10670    0 10670    0     0  74267      0 --:--:-- --:--:-- --:--:-- 74615
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10670    0 10670    0     0  78624      0 --:--:-- --:--:-- --:--:-- 79037
 => Start download 简洁的力量.azw3 ...
 /home/lm/books/week31_简洁的力量/简洁的力量.azw3
 => 简洁的力量.azw3 exist. Skip.
@@ -510,7 +510,7 @@
 => Dir week32_硅谷百年史 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13096    0 13096    0     0   105k      0 --:--:-- --:--:-- --:--:--  105k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13096    0 13096    0     0  88954      0 --:--:-- --:--:-- --:--:-- 89088
 => Start download cover.jpg ...
 /home/lm/books/week32_硅谷百年史/cover.jpg
 => cover.jpg exist. Skip.
@@ -527,7 +527,7 @@
 => Dir week33_增长黑客 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13733    0 13733    0     0   116k      0 --:--:-- --:--:-- --:--:--  116k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13733    0 13733    0     0  90142      0 --:--:-- --:--:-- --:--:-- 90348
 => Start download [每周一书]《增长黑客》如何不花钱运营产品.txt ...
 /home/lm/books/week33_增长黑客/[每周一书]《增长黑客》如何不花钱运营产品.txt
 => [每周一书]《增长黑客》如何不花钱运营产品.txt exist. Skip.
@@ -547,7 +547,7 @@
 => Dir week34_向前一步 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14157    0 14157    0     0   109k      0 --:--:-- --:--:-- --:--:--  108k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14157    0 14157    0     0   104k      0 --:--:-- --:--:-- --:--:--  103k
 => Start download [每周一书]《向前一步》女性，工作及领导意志.txt ...
 /home/lm/books/week34_向前一步/[每周一书]《向前一步》女性，工作及领导意志.txt
 => [每周一书]《向前一步》女性，工作及领导意志.txt exist. Skip.
@@ -567,7 +567,7 @@
 => Dir week35_为何家会伤人 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14171    0 14171    0     0  90868      0 --:--:-- --:--:-- --:--:-- 91425
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14171    0 14171    0     0   118k      0 --:--:-- --:--:-- --:--:--  119k
 => Start download [每周一书]《为何家会伤人》带你重新认识家庭.txt ...
 /home/lm/books/week35_为何家会伤人/[每周一书]《为何家会伤人》带你重新认识家庭.txt
 => [每周一书]《为何家会伤人》带你重新认识家庭.txt exist. Skip.
@@ -587,7 +587,7 @@
 => Dir week36_别逗了，费曼先生 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14597    0 14597    0     0  94852      0 --:--:-- --:--:-- --:--:-- 95405
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14597    0 14597    0     0   115k      0 --:--:-- --:--:-- --:--:--  115k
 => Start download [每周一书]《别逗了，费曼先生》科学顽童的故事.txt ...
 /home/lm/books/week36_别逗了，费曼先生/[每周一书]《别逗了，费曼先生》科学顽童的故事.txt
 => [每周一书]《别逗了，费曼先生》科学顽童的故事.txt exist. Skip.
@@ -607,7 +607,7 @@
 => Dir week37_如何阅读一本书 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12455    0 12455    0     0  87116      0 --:--:-- --:--:-- --:--:-- 87711
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12455    0 12455    0     0  86437      0 --:--:-- --:--:-- --:--:-- 87097
 => Start download 如何阅读一本书.azw3 ...
 /home/lm/books/week37_如何阅读一本书/如何阅读一本书.azw3
 => 如何阅读一本书.azw3 exist. Skip.
@@ -624,7 +624,7 @@
 => Dir week38_身份的焦虑 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13979    0 13979    0     0  99992      0 --:--:-- --:--:-- --:--:--   98k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13979    0 13979    0     0   101k      0 --:--:-- --:--:-- --:--:--  101k
 => Start download [每周一书]《身份的焦虑》为什么渴望他人的认同.txt ...
 /home/lm/books/week38_身份的焦虑/[每周一书]《身份的焦虑》为什么渴望他人的认同.txt
 => [每周一书]《身份的焦虑》为什么渴望他人的认同.txt exist. Skip.
@@ -644,7 +644,7 @@
 => Dir week39_情种起源：浪漫爱情的本质和化学 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12407    0 12407    0     0  96009      0 --:--:-- --:--:-- --:--:-- 95438
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12407    0 12407    0     0  82354      0 --:--:-- --:--:-- --:--:-- 82713
 => Start download 情种起源：浪漫爱情的本质和化学-海伦·费舍尔.epub ...
 /home/lm/books/week39_情种起源：浪漫爱情的本质和化学/情种起源：浪漫爱情的本质和化学-海伦·费舍尔.epub
 => 情种起源：浪漫爱情的本质和化学-海伦·费舍尔.epub exist. Skip.
@@ -658,7 +658,7 @@
 => Dir week40_你会杀死那个胖子吗？ Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13201    0 13201    0     0  84864      0 --:--:-- --:--:-- --:--:-- 85167
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13201    0 13201    0     0  92779      0 --:--:-- --:--:-- --:--:-- 92314
 => Start download [每周一书]哲学谜题《你会杀死那个胖子吗》.txt ...
 /home/lm/books/week40_你会杀死那个胖子吗？/[每周一书]哲学谜题《你会杀死那个胖子吗》.txt
 => [每周一书]哲学谜题《你会杀死那个胖子吗》.txt exist. Skip.
@@ -675,7 +675,7 @@
 => Dir week41_跟老齐学Python Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13529    0 13529    0     0  92743      0 --:--:-- --:--:-- --:--:-- 93303
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13529    0 13529    0     0   110k      0 --:--:-- --:--:-- --:--:--  111k
 => Start download 跟老齐学Python.azw3 ...
 /home/lm/books/week41_跟老齐学Python/跟老齐学Python.azw3
 => 跟老齐学Python.azw3 exist. Skip.
@@ -695,7 +695,7 @@
 => Dir week42_金钱不能买什么 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12856    0 12856    0     0  83871      0 --:--:-- --:--:-- --:--:-- 84026
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12856    0 12856    0     0   107k      0 --:--:-- --:--:-- --:--:--  107k
 => Start download [每周一书]《金钱不能买什么》市场与道德的冲突.txt ...
 /home/lm/books/week42_金钱不能买什么/[每周一书]《金钱不能买什么》市场与道德的冲突.txt
 => [每周一书]《金钱不能买什么》市场与道德的冲突.txt exist. Skip.
@@ -712,7 +712,7 @@
 => Dir week43_欲罢不能：刷屏时代如何摆脱行为上瘾 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13880    0 13880    0     0  92368      0 --:--:-- --:--:-- --:--:-- 92533
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13880    0 13880    0     0  88125      0 --:--:-- --:--:-- --:--:-- 88407
 => Start download cover.jpg ...
 /home/lm/books/week43_欲罢不能：刷屏时代如何摆脱行为上瘾/cover.jpg
 => cover.jpg exist. Skip.
@@ -729,7 +729,7 @@
 => Dir week44_美妙的新世界 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12724    0 12724    0     0   105k      0 --:--:-- --:--:-- --:--:--  106k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12724    0 12724    0     0  92063      0 --:--:-- --:--:-- --:--:-- 92202
 => Start download [每周一书]《美妙的新世界》机械文明下的未来社会.txt ...
 /home/lm/books/week44_美妙的新世界/[每周一书]《美妙的新世界》机械文明下的未来社会.txt
 => [每周一书]《美妙的新世界》机械文明下的未来社会.txt exist. Skip.
@@ -746,7 +746,7 @@
 => Dir week45_重新发现宋朝 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12625    0 12625    0     0  95315      0 --:--:-- --:--:-- --:--:-- 95643
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12625    0 12625    0     0  85650      0 --:--:-- --:--:-- --:--:-- 85304
 => Start download [每周一书]从历史细节中《重新发现宋朝》.txt ...
 /home/lm/books/week45_重新发现宋朝/[每周一书]从历史细节中《重新发现宋朝》.txt
 => [每周一书]从历史细节中《重新发现宋朝》.txt exist. Skip.
@@ -763,7 +763,7 @@
 => Dir week46_无压工作的艺术 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13110    0 13110    0     0  99440      0 --:--:-- --:--:-- --:--:--   97k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13110    0 13110    0     0    98k      0 --:--:-- --:--:-- --:--:--   99k
 => Start download [每周一书]提高效率《搞定I：无压工作的艺术》.txt ...
 /home/lm/books/week46_无压工作的艺术/[每周一书]提高效率《搞定I：无压工作的艺术》.txt
 => [每周一书]提高效率《搞定I：无压工作的艺术》.txt exist. Skip.
@@ -780,7 +780,7 @@
 => Dir week47_双螺旋（插图注释版） Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14634    0 14634    0     0   100k      0 --:--:-- --:--:-- --:--:--  100k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14634    0 14634    0     0   115k      0 --:--:-- --:--:-- --:--:--  116k
 => Start download 【每周一书】双螺旋（插图注释本）.txt ...
 /home/lm/books/week47_双螺旋（插图注释版）/【每周一书】双螺旋（插图注释本）.txt
 => 【每周一书】双螺旋（插图注释本）.txt exist. Skip.
@@ -800,7 +800,7 @@
 => Dir week48_我遇见了人类 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11238    0 11238    0     0  82577      0 --:--:-- --:--:-- --:--:-- 83244
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11238    0 11238    0     0  76373      0 --:--:-- --:--:-- --:--:-- 76448
 => Start download 我遇见了人类(附人类指南).azw3 ...
 /home/lm/books/week48_我遇见了人类/我遇见了人类(附人类指南).azw3
 => 我遇见了人类(附人类指南).azw3 exist. Skip.
@@ -814,7 +814,7 @@
 => Dir week49_窄门(安德烈·纪德) Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12677    0 12677    0     0  93630      0 --:--:-- --:--:-- --:--:-- 93903
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12677    0 12677    0     0  85217      0 --:--:-- --:--:-- --:--:-- 85655
 => Start download 窄门-安德烈·纪德.epub ...
 /home/lm/books/week49_窄门(安德烈·纪德)/窄门-安德烈·纪德.epub
 => 窄门-安德烈·纪德.epub exist. Skip.
@@ -831,7 +831,7 @@
 => Dir week50_复杂经济学：经济思想的新框架 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13759    0 13759    0     0   111k      0 --:--:-- --:--:-- --:--:--  111k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13759    0 13759    0     0  89819      0 --:--:-- --:--:-- --:--:-- 89928
 => Start download 复杂经济学：经济思想的新框架.azw3 ...
 /home/lm/books/week50_复杂经济学：经济思想的新框架/复杂经济学：经济思想的新框架.azw3
 => 复杂经济学：经济思想的新框架.azw3 exist. Skip.
@@ -848,7 +848,7 @@
 => Dir week51_规模：复杂世界的简单法则 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11621    0 11621    0     0  86268      0 --:--:-- --:--:-- --:--:-- 86723
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11621    0 11621    0     0  85424      0 --:--:-- --:--:-- --:--:-- 85448
 => Start download 规模：复杂世界的简单法则.azw3 ...
 /home/lm/books/week51_规模：复杂世界的简单法则/规模：复杂世界的简单法则.azw3
 => 规模：复杂世界的简单法则.azw3 exist. Skip.
@@ -862,7 +862,7 @@
 => Dir week52_物质的秘密：藏在微观粒子里的神奇世界 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12473    0 12473    0     0  83189      0 --:--:-- --:--:-- --:--:-- 83711
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12473    0 12473    0     0   102k      0 --:--:-- --:--:-- --:--:--  103k
 => Start download 物质的秘密：藏在微观粒子里的神奇世界.azw3 ...
 /home/lm/books/week52_物质的秘密：藏在微观粒子里的神奇世界/物质的秘密：藏在微观粒子里的神奇世界.azw3
 => 物质的秘密：藏在微观粒子里的神奇世界.azw3 exist. Skip.
@@ -876,7 +876,7 @@
 => Dir week53_幸福之路 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10684    0 10684    0     0  62974      0 --:--:-- --:--:-- --:--:-- 63218
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10684    0 10684    0     0  83397      0 --:--:-- --:--:-- --:--:-- 84125
 => Start download 幸福之路罗素.epub ...
 /home/lm/books/week53_幸福之路/幸福之路罗素.epub
 => 幸福之路罗素.epub exist. Skip.
@@ -890,7 +890,7 @@
 => Dir week54_扫地出门：美国城市的贫穷与暴利 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12046    0 12046    0     0  78465      0 --:--:-- --:--:-- --:--:-- 78732
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12046    0 12046    0     0  80054      0 --:--:-- --:--:-- --:--:-- 80306
 => Start download 扫地出门：美国城市的贫穷与暴利.azw3 ...
 /home/lm/books/week54_扫地出门：美国城市的贫穷与暴利/扫地出门：美国城市的贫穷与暴利.azw3
 => 扫地出门：美国城市的贫穷与暴利.azw3 exist. Skip.
@@ -904,7 +904,7 @@
 => Dir week55_沐猿而冠 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10499    0 10499    0     0  81378      0 --:--:-- --:--:-- --:--:-- 82023
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10499    0 10499    0     0  83564      0 --:--:-- --:--:-- --:--:-- 83992
 => Start download 沐猿而冠.azw3 ...
 /home/lm/books/week55_沐猿而冠/沐猿而冠.azw3
 => 沐猿而冠.azw3 exist. Skip.
@@ -918,7 +918,7 @@
 => Dir week56_情人 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10901    0 10901    0     0  90717      0 --:--:-- --:--:-- --:--:-- 90090
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10901    0 10901    0     0  73636      0 --:--:-- --:--:-- --:--:-- 74156
 => Start download 情人-玛格丽特·杜拉斯.epub ...
 /home/lm/books/week56_情人/情人-玛格丽特·杜拉斯.epub
 => 情人-玛格丽特·杜拉斯.epub exist. Skip.
@@ -932,7 +932,7 @@
 => Dir week57_圣殿春秋 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12615    0 12615    0     0  85804      0 --:--:-- --:--:-- --:--:-- 86404
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12615    0 12615    0     0  86305      0 --:--:-- --:--:-- --:--:-- 87000
 => Start download 《圣殿春秋》肯·福莱特.epub ...
 /home/lm/books/week57_圣殿春秋/《圣殿春秋》肯·福莱特.epub
 => 《圣殿春秋》肯·福莱特.epub exist. Skip.
@@ -949,7 +949,7 @@
 => Dir week58_韭菜的自我修养 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12461    0 12461    0     0  89929      0 --:--:-- --:--:-- --:--:-- 90297
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12461    0 12461    0     0   100k      0 --:--:-- --:--:-- --:--:--  101k
 => Start download 韭菜的自我修养.azw3 ...
 /home/lm/books/week58_韭菜的自我修养/韭菜的自我修养.azw3
 => 韭菜的自我修养.azw3 exist. Skip.
@@ -966,7 +966,7 @@
 => Dir week59_性与性格 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11899    0 11899    0     0  84093      0 --:--:-- --:--:-- --:--:-- 84390
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11899    0 11899    0     0  99918      0 --:--:-- --:--:-- --:--:--   98k
 => Start download 性与性格.azw3 ...
 /home/lm/books/week59_性与性格/性与性格.azw3
 => 性与性格.azw3 exist. Skip.
@@ -983,7 +983,7 @@
 => Dir week60_投资中最简单事 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12941    0 12941    0     0  86547      0 --:--:-- --:--:-- --:--:-- 86852
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12941    0 12941    0     0  93073      0 --:--:-- --:--:-- --:--:-- 93775
 => Start download [每周一书]从本质出发教你《投资中最简单的事》.txt ...
 /home/lm/books/week60_投资中最简单事/[每周一书]从本质出发教你《投资中最简单的事》.txt
 => [每周一书]从本质出发教你《投资中最简单的事》.txt exist. Skip.
@@ -1000,7 +1000,7 @@
 => Dir week61_谈修养 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13523    0 13523    0     0   110k      0 --:--:-- --:--:-- --:--:--  110k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13523    0 13523    0     0   108k      0 --:--:-- --:--:-- --:--:--  109k
 => Start download [每周一书]《谈修养》写给青年人的珠玑之言.txt ...
 /home/lm/books/week61_谈修养/[每周一书]《谈修养》写给青年人的珠玑之言.txt
 => [每周一书]《谈修养》写给青年人的珠玑之言.txt exist. Skip.
@@ -1020,7 +1020,7 @@
 => Dir week62_独裁者手册 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12482    0 12482    0     0    98k      0 --:--:-- --:--:-- --:--:--   99k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12482    0 12482    0     0  86664      0 --:--:-- --:--:-- --:--:-- 86680
 => Start download [每周一书]《独裁者手册》带你真正理解政治.txt ...
 /home/lm/books/week62_独裁者手册/[每周一书]《独裁者手册》带你真正理解政治.txt
 => [每周一书]《独裁者手册》带你真正理解政治.txt exist. Skip.
@@ -1037,7 +1037,7 @@
 => Dir week63-天空的另一半 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10779    0 10779    0     0  84180      0 --:--:-- --:--:-- --:--:-- 84874
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10779    0 10779    0     0  74561      0 --:--:-- --:--:-- --:--:-- 74854
 => Start download 天空的另一半.azw3 ...
 /home/lm/books/week63-天空的另一半/天空的另一半.azw3
 => 天空的另一半.azw3 exist. Skip.
@@ -1051,7 +1051,7 @@
 => Dir week64_自由选择 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11792    0 11792    0     0  88343      0 --:--:-- --:--:-- --:--:-- 88661
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11792    0 11792    0     0  86504      0 --:--:-- --:--:-- --:--:-- 86705
 => Start download en ...
 /home/lm/books/week64_自由选择/en
 => en exist. Skip.
@@ -1068,7 +1068,7 @@
 => Dir week65_零售的哲学 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12407    0 12407    0     0  85770      0 --:--:-- --:--:-- --:--:-- 86159
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12407    0 12407    0     0   103k      0 --:--:-- --:--:-- --:--:--  104k
 => Start download [每周一书]7-Eleven便利店《零售的哲学》.txt ...
 /home/lm/books/week65_零售的哲学/[每周一书]7-Eleven便利店《零售的哲学》.txt
 => [每周一书]7-Eleven便利店《零售的哲学》.txt exist. Skip.
@@ -1085,7 +1085,7 @@
 => Dir week66_查令十字街84号 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12592    0 12592    0     0  86985      0 --:--:-- --:--:-- --:--:-- 87444
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12592    0 12592    0     0  81757      0 --:--:-- --:--:-- --:--:-- 82300
 => Start download [每周一书]《查令十字街84号》.txt ...
 /home/lm/books/week66_查令十字街84号/[每周一书]《查令十字街84号》.txt
 => [每周一书]《查令十字街84号》.txt exist. Skip.
@@ -1102,7 +1102,7 @@
 => Dir week67_平面国 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12163    0 12163    0     0  95110      0 --:--:-- --:--:-- --:--:-- 95023
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12163    0 12163    0     0  83187      0 --:--:-- --:--:-- --:--:-- 83308
 => Start download [每周一书]《平面国》一个多维的传奇故事.txt ...
 /home/lm/books/week67_平面国/[每周一书]《平面国》一个多维的传奇故事.txt
 => [每周一书]《平面国》一个多维的传奇故事.txt exist. Skip.
@@ -1119,7 +1119,7 @@
 => Dir week68_数学女孩 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10508    0 10508    0     0  84560      0 --:--:-- --:--:-- --:--:-- 84741
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10508    0 10508    0     0  68618      0 --:--:-- --:--:-- --:--:-- 68679
 => Start download 数学女孩1.azw3 ...
 /home/lm/books/week68_数学女孩/数学女孩1.azw3
 => 数学女孩1.azw3 exist. Skip.
@@ -1133,7 +1133,7 @@
 => Dir week69_自卑与超越 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12455    0 12455    0     0  79997      0 --:--:-- --:--:-- --:--:-- 80354
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12455    0 12455    0     0  85772      0 --:--:-- --:--:-- --:--:-- 85896
 => Start download [每周一书]《自卑与超越》生命的真正意义.txt ...
 /home/lm/books/week69_自卑与超越/[每周一书]《自卑与超越》生命的真正意义.txt
 => [每周一书]《自卑与超越》生命的真正意义.txt exist. Skip.
@@ -1150,12 +1150,12 @@
 => Dir week70_gitpro_ Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  6279    0  6279    0     0  47769      0 --:--:-- --:--:-- --:--:-- 47931
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  6279    0  6279    0     0  53646      0 --:--:-- --:--:-- --:--:-- 54129
 
 => Dir week71_概率的烦恼：量子贝叶斯拯救薛定谔的猫 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15961    0 15961    0     0   110k      0 --:--:-- --:--:-- --:--:--  111k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15961    0 15961    0     0   125k      0 --:--:-- --:--:-- --:--:--  126k
 => Start download week98_海浪 ...
 /home/lm/books/week71_概率的烦恼：量子贝叶斯拯救薛定谔的猫/week98_海浪
 => week98_海浪 exist. Skip.
@@ -1175,7 +1175,7 @@
 => Dir week72_计算机进化史 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11282    0 11282    0     0  86402      0 --:--:-- --:--:-- --:--:-- 86784
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11282    0 11282    0     0  75846      0 --:--:-- --:--:-- --:--:-- 76229
 => Start download 计算进化史_改变数学的命运.azw3 ...
 /home/lm/books/week72_计算机进化史/计算进化史_改变数学的命运.azw3
 => 计算进化史_改变数学的命运.azw3 exist. Skip.
@@ -1189,7 +1189,7 @@
 => Dir week73_中日恩怨两千年 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12303    0 12303    0     0  98010      0 --:--:-- --:--:-- --:--:-- 97642
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12303    0 12303    0     0  83720      0 --:--:-- --:--:-- --:--:-- 84267
 => Start download picture.jpg ...
 /home/lm/books/week73_中日恩怨两千年/picture.jpg
 => picture.jpg exist. Skip.
@@ -1206,7 +1206,7 @@
 => Dir week74_生育制度 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12679    0 12679    0     0  74199      0 --:--:-- --:--:-- --:--:-- 74582
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12679    0 12679    0     0  98037      0 --:--:-- --:--:-- --:--:-- 98286
 => Start download 乡土中国生育制度-费孝通.epub ...
 /home/lm/books/week74_生育制度/乡土中国生育制度-费孝通.epub
 => 乡土中国生育制度-费孝通.epub exist. Skip.
@@ -1223,7 +1223,7 @@
 => Dir week75_风格感觉21世纪写作指南 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11435    0 11435    0     0  87772      0 --:--:-- --:--:-- --:--:-- 87961
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11435    0 11435    0     0  82038      0 --:--:-- --:--:-- --:--:-- 82266
 => Start download 风格感觉21世纪写作指南.azw3 ...
 /home/lm/books/week75_风格感觉21世纪写作指南/风格感觉21世纪写作指南.azw3
 => 风格感觉21世纪写作指南.azw3 exist. Skip.
@@ -1237,7 +1237,7 @@
 => Dir week76_幸福的婚姻：男人与女人的长期相处之道 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12469    0 12469    0     0  88302      0 --:--:-- --:--:-- --:--:-- 88432
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12469    0 12469    0     0   100k      0 --:--:-- --:--:-- --:--:--  100k
 => Start download 幸福的婚姻：男人与女人的长期相处之道.azw3 ...
 /home/lm/books/week76_幸福的婚姻：男人与女人的长期相处之道/幸福的婚姻：男人与女人的长期相处之道.azw3
 => 幸福的婚姻：男人与女人的长期相处之道.azw3 exist. Skip.
@@ -1251,7 +1251,7 @@
 => Dir week77_致命的自负：社会主义的谬误 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11621    0 11621    0     0  80078      0 --:--:-- --:--:-- --:--:-- 80701
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11621    0 11621    0     0  93485      0 --:--:-- --:--:-- --:--:-- 93717
 => Start download （英）哈耶克-致命的自负.epub ...
 /home/lm/books/week77_致命的自负：社会主义的谬误/（英）哈耶克-致命的自负.epub
 => （英）哈耶克-致命的自负.epub exist. Skip.
@@ -1265,7 +1265,7 @@
 => Dir week78_病隙碎笔：坚忍写作的生命笔记 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11093    0 11093    0     0  77250      0 --:--:-- --:--:-- --:--:-- 77034
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11093    0 11093    0     0  82960      0 --:--:-- --:--:-- --:--:-- 83406
 => Start download 病隙碎笔.epub ...
 /home/lm/books/week78_病隙碎笔：坚忍写作的生命笔记/病隙碎笔.epub
 => 病隙碎笔.epub exist. Skip.
@@ -1279,7 +1279,7 @@
 => Dir week79_独生：中国最激进的实验 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  8073    0  8073    0     0  73251      0 --:--:-- --:--:-- --:--:-- 73390
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  8073    0  8073    0     0  57469      0 --:--:-- --:--:-- --:--:-- 57255
 => Start download 独生——中国最激进的实验.pdf ...
 /home/lm/books/week79_独生：中国最激进的实验/独生——中国最激进的实验.pdf
 => 独生——中国最激进的实验.pdf exist. Skip.
@@ -1287,7 +1287,7 @@
 => Dir week80_搞定I：无压工作的艺术 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11368    0 11368    0     0  89684      0 --:--:-- --:--:-- --:--:-- 90222
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11368    0 11368    0     0  74675      0 --:--:-- --:--:-- --:--:-- 74789
 => Start download 搞定I：无压工作的艺术.azw3 ...
 /home/lm/books/week80_搞定I：无压工作的艺术/搞定I：无压工作的艺术.azw3
 => 搞定I：无压工作的艺术.azw3 exist. Skip.
@@ -1301,7 +1301,7 @@
 => Dir week81_独裁者手册 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12482    0 12482    0     0  85538      0 --:--:-- --:--:-- --:--:-- 86082
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12482    0 12482    0     0  82866      0 --:--:-- --:--:-- --:--:-- 83213
 => Start download [每周一书]《独裁者手册》带你真正理解政治.txt ...
 /home/lm/books/week81_独裁者手册/[每周一书]《独裁者手册》带你真正理解政治.txt
 => [每周一书]《独裁者手册》带你真正理解政治.txt exist. Skip.
@@ -1318,7 +1318,7 @@
 => Dir week82_黑客与画家 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12484    0 12484    0     0  93255      0 --:--:-- --:--:-- --:--:-- 93864
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12484    0 12484    0     0  95582      0 --:--:-- --:--:-- --:--:-- 96030
 => Start download [每周一书]《黑客与画家》改变世界的程序员.txt ...
 /home/lm/books/week82_黑客与画家/[每周一书]《黑客与画家》改变世界的程序员.txt
 => [每周一书]《黑客与画家》改变世界的程序员.txt exist. Skip.
@@ -1335,7 +1335,7 @@
 => Dir week83_钓愚 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11953    0 11953    0     0  89334      0 --:--:-- --:--:-- --:--:-- 89872
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11953    0 11953    0     0  99216      0 --:--:-- --:--:-- --:--:-- 99608
 => Start download [每周一书]《钓愚》操纵与欺骗的经济学.txt ...
 /home/lm/books/week83_钓愚/[每周一书]《钓愚》操纵与欺骗的经济学.txt
 => [每周一书]《钓愚》操纵与欺骗的经济学.txt exist. Skip.
@@ -1352,7 +1352,7 @@
 => Dir week84_一网打尽 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10493    0 10493    0     0  72034      0 --:--:-- --:--:-- --:--:-- 71869
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10493    0 10493    0     0  69685      0 --:--:-- --:--:-- --:--:-- 69953
 => Start download 一网打尽.azw3 ...
 /home/lm/books/week84_一网打尽/一网打尽.azw3
 => 一网打尽.azw3 exist. Skip.
@@ -1366,7 +1366,7 @@
 => Dir week85_童年的消逝 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12538    0 12538    0     0  88918      0 --:--:-- --:--:-- --:--:-- 89557
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12538    0 12538    0     0  92132      0 --:--:-- --:--:-- --:--:-- 92191
 => Start download [每周一书]《童年的消逝》“小大人”现象的由来.txt ...
 /home/lm/books/week85_童年的消逝/[每周一书]《童年的消逝》“小大人”现象的由来.txt
 => [每周一书]《童年的消逝》“小大人”现象的由来.txt exist. Skip.
@@ -1383,7 +1383,7 @@
 => Dir week86_皮肤的秘密 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10634    0 10634    0     0  74505      0 --:--:-- --:--:-- --:--:-- 74887
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10634    0 10634    0     0  79019      0 --:--:-- --:--:-- --:--:-- 79358
 => Start download 皮肤的秘密.azw3 ...
 /home/lm/books/week86_皮肤的秘密/皮肤的秘密.azw3
 => 皮肤的秘密.azw3 exist. Skip.
@@ -1397,7 +1397,7 @@
 => Dir week87_我的天才女友 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10781    0 10781    0     0  73144      0 --:--:-- --:--:-- --:--:-- 73340
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10781    0 10781    0     0  71014      0 --:--:-- --:--:-- --:--:-- 71397
 => Start download 我的天才女友.azw3 ...
 /home/lm/books/week87_我的天才女友/我的天才女友.azw3
 => 我的天才女友.azw3 exist. Skip.
@@ -1411,7 +1411,7 @@
 => Dir week88_新闻的骚动 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10634    0 10634    0     0  85856      0 --:--:-- --:--:-- --:--:-- 86455
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10634    0 10634    0     0  91088      0 --:--:-- --:--:-- --:--:-- 91672
 => Start download 新闻的骚动.azw3 ...
 /home/lm/books/week88_新闻的骚动/新闻的骚动.azw3
 => 新闻的骚动.azw3 exist. Skip.
@@ -1425,7 +1425,7 @@
 => Dir week89_皮囊 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10217    0 10217    0     0  70788      0 --:--:-- --:--:-- --:--:-- 70951
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10217    0 10217    0     0  84456      0 --:--:-- --:--:-- --:--:-- 85141
 => Start download 皮囊.azw3 ...
 /home/lm/books/week89_皮囊/皮囊.azw3
 => 皮囊.azw3 exist. Skip.
@@ -1439,7 +1439,7 @@
 => Dir week90_走进奇妙的元素周期表 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11339    0 11339    0     0  83704      0 --:--:-- --:--:-- --:--:-- 83992
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11339    0 11339    0     0  79487      0 --:--:-- --:--:-- --:--:-- 79852
 => Start download 走进奇妙的元素周期表.azw3 ...
 /home/lm/books/week90_走进奇妙的元素周期表/走进奇妙的元素周期表.azw3
 => 走进奇妙的元素周期表.azw3 exist. Skip.
@@ -1453,7 +1453,7 @@
 => Dir week91_瓦尔登湖 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10497    0 10497    0     0  93869      0 --:--:-- --:--:-- --:--:-- 94567
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10497    0 10497    0     0  74174      0 --:--:-- --:--:-- --:--:-- 73922
 => Start download 瓦尔登湖.azw3 ...
 /home/lm/books/week91_瓦尔登湖/瓦尔登湖.azw3
 => 瓦尔登湖.azw3 exist. Skip.
@@ -1467,7 +1467,7 @@
 => Dir week92_甲午两甲子 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10959    0 10959    0     0  74821      0 --:--:-- --:--:-- --:--:-- 75061
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10959    0 10959    0     0  76120      0 --:--:-- --:--:-- --:--:-- 76636
 => Start download 甲午两甲子：忆与思.azw3 ...
 /home/lm/books/week92_甲午两甲子/甲午两甲子：忆与思.azw3
 => 甲午两甲子：忆与思.azw3 exist. Skip.
@@ -1481,7 +1481,7 @@
 => Dir week93_切尔诺贝利的悲鸣 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11063    0 11063    0     0  83903      0 --:--:-- --:--:-- --:--:-- 84450
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11063    0 11063    0     0  64697      0 --:--:-- --:--:-- --:--:-- 65076
 => Start download 切尔诺贝利的悲鸣.azw3 ...
 /home/lm/books/week93_切尔诺贝利的悲鸣/切尔诺贝利的悲鸣.azw3
 => 切尔诺贝利的悲鸣.azw3 exist. Skip.
@@ -1495,7 +1495,7 @@
 => Dir week94_Linux入门很简单 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10798    0 10798    0     0  79480      0 --:--:-- --:--:-- --:--:-- 79985
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10798    0 10798    0     0  95421      0 --:--:-- --:--:-- --:--:-- 95557
 => Start download Linux入门很简单.azw3 ...
 /home/lm/books/week94_Linux入门很简单/Linux入门很简单.azw3
 => Linux入门很简单.azw3 exist. Skip.
@@ -1509,7 +1509,7 @@
 => Dir week95_改变心理学的40项研究 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11244    0 11244    0     0  77844      0 --:--:-- --:--:-- --:--:-- 77544
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11244    0 11244    0     0  97282      0 --:--:-- --:--:-- --:--:-- 97773
 => Start download 改变心理学的40项研究.azw3 ...
 /home/lm/books/week95_改变心理学的40项研究/改变心理学的40项研究.azw3
 => 改变心理学的40项研究.azw3 exist. Skip.
@@ -1523,7 +1523,7 @@
 => Dir week96_永不放弃：特朗普自述 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11339    0 11339    0     0  79135      0 --:--:-- --:--:-- --:--:-- 79293
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11339    0 11339    0     0  82376      0 --:--:-- --:--:-- --:--:-- 82766
 => Start download 永不放弃：特朗普自述.azw3 ...
 /home/lm/books/week96_永不放弃：特朗普自述/永不放弃：特朗普自述.azw3
 => 永不放弃：特朗普自述.azw3 exist. Skip.
@@ -1537,7 +1537,7 @@
 => Dir week97_喜宝 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10217    0 10217    0     0  85929      0 --:--:-- --:--:-- --:--:-- 86584
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10217    0 10217    0     0  71801      0 --:--:-- --:--:-- --:--:-- 71950
 => Start download 喜宝.azw3 ...
 /home/lm/books/week97_喜宝/喜宝.azw3
 => 喜宝.azw3 exist. Skip.
@@ -1551,7 +1551,7 @@
 => Dir week98_海浪 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12096    0 12096    0     0  84750      0 --:--:-- --:--:-- --:--:-- 85183
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12096    0 12096    0     0  80853      0 --:--:-- --:--:-- --:--:-- 81181
 => Start download photo_2019-06-3015.39.19.jpeg ...
 /home/lm/books/week98_海浪/photo_2019-06-3015.39.19.jpeg
 => photo_2019-06-3015.39.19.jpeg exist. Skip.
@@ -1568,7 +1568,7 @@
 => Dir week99_岛上书店 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10499    0 10499    0     0  86194      0 --:--:-- --:--:-- --:--:-- 86768
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10499    0 10499    0     0  75290      0 --:--:-- --:--:-- --:--:-- 75532
 => Start download 岛上书店.azw3 ...
 /home/lm/books/week99_岛上书店/岛上书店.azw3
 => 岛上书店.azw3 exist. Skip.
@@ -1582,7 +1582,7 @@
 => Dir week100_霍乱时期的爱情 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10924    0 10924    0     0  86502      0 --:--:-- --:--:-- --:--:-- 86698
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10924    0 10924    0     0  95255      0 --:--:-- --:--:-- --:--:-- 95824
 => Start download 霍乱时期的爱情.epub ...
 /home/lm/books/week100_霍乱时期的爱情/霍乱时期的爱情.epub
 => 霍乱时期的爱情.epub exist. Skip.
@@ -1596,7 +1596,7 @@
 => Dir week102_时代四部曲 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11128    0 11128    0     0  82881      0 --:--:-- --:--:-- --:--:-- 82429
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11128    0 11128    0     0  87158      0 --:--:-- --:--:-- --:--:-- 87622
 => Start download 王小波：时代四部曲系列.azw3 ...
 /home/lm/books/week102_时代四部曲/王小波：时代四部曲系列.azw3
 => 王小波：时代四部曲系列.azw3 exist. Skip.
@@ -1610,7 +1610,7 @@
 => Dir week103_所以，一切都是童年的错吗？ Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13328    0 13328    0     0  91135      0 --:--:-- --:--:-- --:--:-- 91287
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13328    0 13328    0     0  93144      0 --:--:-- --:--:-- --:--:-- 93202
 => Start download 2019-08-0611.21.34.jpg ...
 /home/lm/books/week103_所以，一切都是童年的错吗？/2019-08-0611.21.34.jpg
 => 2019-08-0611.21.34.jpg exist. Skip.
@@ -1627,7 +1627,7 @@
 => Dir week104_人间有味 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10501    0 10501    0     0  90193      0 --:--:-- --:--:-- --:--:-- 90525
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10501    0 10501    0     0  79589      0 --:--:-- --:--:-- --:--:-- 80160
 => Start download 人间有味.azw3 ...
 /home/lm/books/week104_人间有味/人间有味.azw3
 => 人间有味.azw3 exist. Skip.
@@ -1641,7 +1641,7 @@
 => Dir week105_春分之后 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10501    0 10501    0     0  72806      0 --:--:-- --:--:-- --:--:-- 72923
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10501    0 10501    0     0  72343      0 --:--:-- --:--:-- --:--:-- 72420
 => Start download 春分之后.azw3 ...
 /home/lm/books/week105_春分之后/春分之后.azw3
 => 春分之后.azw3 exist. Skip.
@@ -1655,7 +1655,7 @@
 => Dir week106_平均的终结：如何在崇尚标准化的世界中胜出 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12761    0 12761    0     0  90043      0 --:--:-- --:--:-- --:--:-- 90503
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12761    0 12761    0     0  91669      0 --:--:-- --:--:-- --:--:-- 91805
 => Start download 平均的终结：如何在崇尚标准化的世界中胜出.azw3 ...
 /home/lm/books/week106_平均的终结：如何在崇尚标准化的世界中胜出/平均的终结：如何在崇尚标准化的世界中胜出.azw3
 => 平均的终结：如何在崇尚标准化的世界中胜出.azw3 exist. Skip.
@@ -1669,7 +1669,7 @@
 => Dir week107_呐喊 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10867    0 10867    0     0  93321      0 --:--:-- --:--:-- --:--:-- 93681
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10867    0 10867    0     0  93728      0 --:--:-- --:--:-- --:--:-- 94495
 => Start download 鲁迅短篇小说集：呐喊.azw3 ...
 /home/lm/books/week107_呐喊/鲁迅短篇小说集：呐喊.azw3
 => 鲁迅短篇小说集：呐喊.azw3 exist. Skip.
@@ -1683,7 +1683,7 @@
 => Dir week108_过剩之地 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11311    0 11311    0     0  85261      0 --:--:-- --:--:-- --:--:-- 85045
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11311    0 11311    0     0  94151      0 --:--:-- --:--:-- --:--:-- 94258
 => Start download 过剩之地：美式富足与贫困悖论.azw3 ...
 /home/lm/books/week108_过剩之地/过剩之地：美式富足与贫困悖论.azw3
 => 过剩之地：美式富足与贫困悖论.azw3 exist. Skip.
@@ -1694,15 +1694,1107 @@
 /home/lm/books/week108_过剩之地/过剩之地：美式富足与贫困悖论.mobi
 => 过剩之地：美式富足与贫困悖论.mobi exist. Skip.
 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11327    0 11327    0     0  79461      0 --:--:-- --:--:-- --:--:-- 79209
+=> Start download 人像摄影进行时：完美构图.azw3 ...
+/home/lm/books/week109_人像摄影进行时/人像摄影进行时：完美构图.azw3
+--2019-09-27 02:00:20--  https://ebooksplan.club/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B9%A6/week109_%E4%BA%BA%E5%83%8F%E6%91%84%E5%BD%B1%E8%BF%9B%E8%A1%8C%E6%97%B6/%E4%BA%BA%E5%83%8F%E6%91%84%E5%BD%B1%E8%BF%9B%E8%A1%8C%E6%97%B6%EF%BC%9A%E5%AE%8C%E7%BE%8E%E6%9E%84%E5%9B%BE.azw3
+Resolving ebooksplan.club (ebooksplan.club)... 111.231.86.176
+Connecting to ebooksplan.club (ebooksplan.club)|111.231.86.176|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14027356 (13M) [application/octet-stream]
+Saving to: ‘/home/lm/books/week109_人像摄影进行时/人像摄影进行时：完美构图.azw3’
+
+     0K .......... .......... .......... .......... ..........  0% 6.35M 2s
+    50K .......... .......... .......... .......... ..........  0%  218K 32s
+   100K .......... .......... .......... .......... ..........  1%  195K 45s
+   150K .......... .......... .......... .......... ..........  1%  202K 50s
+   200K .......... .......... .......... .......... ..........  1% 95.7K 68s
+   250K .......... .......... .......... .......... ..........  2%  191K 68s
+   300K .......... .......... .......... .......... ..........  2% 97.1K 78s
+   350K .......... .......... .......... .......... ..........  2% 98.1K 85s
+   400K .......... .......... .......... .......... ..........  3%  164K 84s
+   450K .......... .......... .......... .......... ..........  3% 96.8K 89s
+   500K .......... .......... .......... .......... ..........  4%  168K 88s
+   550K .......... .......... .......... .......... ..........  4% 99.4K 91s
+   600K .......... .......... .......... .......... ..........  4%  159K 90s
+   650K .......... .......... .......... .......... ..........  5%  161K 89s
+   700K .......... .......... .......... .......... ..........  5% 92.5K 92s
+   750K .......... .......... .......... .......... ..........  5% 91.7K 95s
+   800K .......... .......... .......... .......... ..........  6%  159K 94s
+   850K .......... .......... .......... .......... ..........  6%  170K 92s
+   900K .......... .......... .......... .......... ..........  6% 96.6K 94s
+   950K .......... .......... .......... .......... ..........  7%  173K 93s
+  1000K .......... .......... .......... .......... ..........  7%  157K 92s
+  1050K .......... .......... .......... .......... ..........  8% 94.4K 93s
+  1100K .......... .......... .......... .......... ..........  8%  174K 92s
+  1150K .......... .......... .......... .......... ..........  8% 92.5K 93s
+  1200K .......... .......... .......... .......... ..........  9%  101K 94s
+  1250K .......... .......... .......... .......... ..........  9%  160K 93s
+  1300K .......... .......... .......... .......... ..........  9% 93.1K 94s
+  1350K .......... .......... .......... .......... .......... 10% 64.1K 97s
+  1400K .......... .......... .......... .......... .......... 10%  172K 96s
+  1450K .......... .......... .......... .......... .......... 10% 92.5K 97s
+  1500K .......... .......... .......... .......... .......... 11%  160K 96s
+  1550K .......... .......... .......... .......... .......... 11% 97.2K 96s
+  1600K .......... .......... .......... .......... .......... 12%  150K 96s
+  1650K .......... .......... .......... .......... .......... 12%  100K 96s
+  1700K .......... .......... .......... .......... .......... 12%  173K 95s
+  1750K .......... .......... .......... .......... .......... 13%  102K 95s
+  1800K .......... .......... .......... .......... .......... 13%  169K 94s
+  1850K .......... .......... .......... .......... .......... 13% 91.3K 94s
+  1900K .......... .......... .......... .......... .......... 14%  159K 94s
+  1950K .......... .......... .......... .......... .......... 14% 87.2K 94s
+  2000K .......... .......... .......... .......... .......... 14%  174K 93s
+  2050K .......... .......... .......... .......... .......... 15%  155K 92s
+  2100K .......... .......... .......... .......... .......... 15% 96.1K 93s
+  2150K .......... .......... .......... .......... .......... 16%  156K 92s
+  2200K .......... .......... .......... .......... .......... 16%  158K 91s
+  2250K .......... .......... .......... .......... .......... 16% 96.6K 91s
+  2300K .......... .......... .......... .......... .......... 17%  172K 90s
+  2350K .......... .......... .......... .......... .......... 17% 92.7K 90s
+  2400K .......... .......... .......... .......... .......... 17%  101K 90s
+  2450K .......... .......... .......... .......... .......... 18%  163K 90s
+  2500K .......... .......... .......... .......... .......... 18% 98.1K 90s
+  2550K .......... .......... .......... .......... .......... 18%  181K 89s
+  2600K .......... .......... .......... .......... .......... 19% 97.6K 89s
+  2650K .......... .......... .......... .......... .......... 19%  153K 88s
+  2700K .......... .......... .......... .......... .......... 20%  159K 87s
+  2750K .......... .......... .......... .......... .......... 20% 92.5K 88s
+  2800K .......... .......... .......... .......... .......... 20% 97.0K 88s
+  2850K .......... .......... .......... .......... .......... 21%  158K 87s
+  2900K .......... .......... .......... .......... .......... 21%  188K 86s
+  2950K .......... .......... .......... .......... .......... 21% 99.5K 86s
+  3000K .......... .......... .......... .......... .......... 22%  180K 85s
+  3050K .......... .......... .......... .......... .......... 22% 87.7K 85s
+  3100K .......... .......... .......... .......... .......... 22%  171K 85s
+  3150K .......... .......... .......... .......... .......... 23% 85.9K 85s
+  3200K .......... .......... .......... .......... .......... 23%  188K 84s
+  3250K .......... .......... .......... .......... .......... 24%  143K 83s
+  3300K .......... .......... .......... .......... .......... 24% 98.9K 83s
+  3350K .......... .......... .......... .......... .......... 24%  174K 82s
+  3400K .......... .......... .......... .......... .......... 25% 93.9K 82s
+  3450K .......... .......... .......... .......... .......... 25%  157K 82s
+  3500K .......... .......... .......... .......... .......... 25%  175K 81s
+  3550K .......... .......... .......... .......... .......... 26% 90.6K 81s
+  3600K .......... .......... .......... .......... .......... 26% 95.4K 81s
+  3650K .......... .......... .......... .......... .......... 27%  183K 80s
+  3700K .......... .......... .......... .......... .......... 27% 95.7K 80s
+  3750K .......... .......... .......... .......... .......... 27%  188K 79s
+  3800K .......... .......... .......... .......... .......... 28%  101K 79s
+  3850K .......... .......... .......... .......... .......... 28%  184K 79s
+  3900K .......... .......... .......... .......... .......... 28%  103K 78s
+  3950K .......... .......... .......... .......... .......... 29% 87.0K 78s
+  4000K .......... .......... .......... .......... .......... 29% 70.4K 79s
+  4050K .......... .......... .......... .......... .......... 29% 92.9K 79s
+  4100K .......... .......... .......... .......... .......... 30%  175K 78s
+  4150K .......... .......... .......... .......... .......... 30% 92.4K 78s
+  4200K .......... .......... .......... .......... .......... 31%  167K 77s
+  4250K .......... .......... .......... .......... .......... 31%  100K 77s
+  4300K .......... .......... .......... .......... .......... 31%  182K 76s
+  4350K .......... .......... .......... .......... .......... 32% 89.7K 76s
+  4400K .......... .......... .......... .......... .......... 32% 90.9K 76s
+  4450K .......... .......... .......... .......... .......... 32%  184K 75s
+  4500K .......... .......... .......... .......... .......... 33%  166K 75s
+  4550K .......... .......... .......... .......... .......... 33%  103K 74s
+  4600K .......... .......... .......... .......... .......... 33%  167K 74s
+  4650K .......... .......... .......... .......... .......... 34% 96.5K 74s
+  4700K .......... .......... .......... .......... .......... 34%  180K 73s
+  4750K .......... .......... .......... .......... .......... 35% 98.3K 73s
+  4800K .......... .......... .......... .......... .......... 35%  102K 73s
+  4850K .......... .......... .......... .......... .......... 35%  165K 72s
+  4900K .......... .......... .......... .......... .......... 36% 97.8K 72s
+  4950K .......... .......... .......... .......... .......... 36%  181K 71s
+  5000K .......... .......... .......... .......... .......... 36% 94.8K 71s
+  5050K .......... .......... .......... .......... .......... 37%  180K 70s
+  5100K .......... .......... .......... .......... .......... 37%  157K 70s
+  5150K .......... .......... .......... .......... .......... 37% 88.7K 69s
+  5200K .......... .......... .......... .......... .......... 38%  100K 69s
+  5250K .......... .......... .......... .......... .......... 38%  178K 69s
+  5300K .......... .......... .......... .......... .......... 39% 88.7K 68s
+  5350K .......... .......... .......... .......... .......... 39%  159K 68s
+  5400K .......... .......... .......... .......... .......... 39%  178K 67s
+  5450K .......... .......... .......... .......... .......... 40% 98.5K 67s
+  5500K .......... .......... .......... .......... .......... 40%  175K 66s
+  5550K .......... .......... .......... .......... .......... 40% 96.1K 66s
+  5600K .......... .......... .......... .......... .......... 41%  156K 66s
+  5650K .......... .......... .......... .......... .......... 41% 90.6K 65s
+  5700K .......... .......... .......... .......... .......... 41%  171K 65s
+  5750K .......... .......... .......... .......... .......... 42% 95.9K 65s
+  5800K .......... .......... .......... .......... .......... 42%  193K 64s
+  5850K .......... .......... .......... .......... .......... 43% 99.6K 64s
+  5900K .......... .......... .......... .......... .......... 43%  188K 63s
+  5950K .......... .......... .......... .......... .......... 43% 88.4K 63s
+  6000K .......... .......... .......... .......... .......... 44%  101K 63s
+  6050K .......... .......... .......... .......... .......... 44%  159K 62s
+  6100K .......... .......... .......... .......... .......... 44%  170K 62s
+  6150K .......... .......... .......... .......... .......... 45%  102K 61s
+  6200K .......... .......... .......... .......... .......... 45%  180K 61s
+  6250K .......... .......... .......... .......... .......... 45% 91.6K 60s
+  6300K .......... .......... .......... .......... .......... 46%  167K 60s
+  6350K .......... .......... .......... .......... .......... 46% 93.5K 60s
+  6400K .......... .......... .......... .......... .......... 47%  101K 59s
+  6450K .......... .......... .......... .......... .......... 47%  160K 59s
+  6500K .......... .......... .......... .......... .......... 47%  161K 58s
+  6550K .......... .......... .......... .......... .......... 48% 92.8K 58s
+  6600K .......... .......... .......... .......... .......... 48%  167K 58s
+  6650K .......... .......... .......... .......... .......... 48% 97.8K 57s
+  6700K .......... .......... .......... .......... .......... 49%  154K 57s
+  6750K .......... .......... .......... .......... .......... 49% 96.9K 56s
+  6800K .......... .......... .......... .......... .......... 50%  179K 56s
+  6850K .......... .......... .......... .......... .......... 50% 97.5K 56s
+  6900K .......... .......... .......... .......... .......... 50%  184K 55s
+  6950K .......... .......... .......... .......... .......... 51%  102K 55s
+  7000K .......... .......... .......... .......... .......... 51%  156K 54s
+  7050K .......... .......... .......... .......... .......... 51% 99.3K 54s
+  7100K .......... .......... .......... .......... .......... 52%  191K 53s
+  7150K .......... .......... .......... .......... .......... 52% 98.7K 53s
+  7200K .......... .......... .......... .......... .......... 52%  101K 53s
+  7250K .......... .......... .......... .......... .......... 53%  159K 52s
+  7300K .......... .......... .......... .......... .......... 53%  168K 52s
+  7350K .......... .......... .......... .......... .......... 54%  102K 51s
+  7400K .......... .......... .......... .......... .......... 54%  180K 51s
+  7450K .......... .......... .......... .......... .......... 54% 93.4K 51s
+  7500K .......... .......... .......... .......... .......... 55%  166K 50s
+  7550K .......... .......... .......... .......... .......... 55% 91.0K 50s
+  7600K .......... .......... .......... .......... .......... 55%  174K 49s
+  7650K .......... .......... .......... .......... .......... 56% 92.9K 49s
+  7700K .......... .......... .......... .......... .......... 56%  177K 48s
+  7750K .......... .......... .......... .......... .......... 56% 87.9K 48s
+  7800K .......... .......... .......... .......... .......... 57%  159K 48s
+  7850K .......... .......... .......... .......... .......... 57%  159K 47s
+  7900K .......... .......... .......... .......... .......... 58%  156K 47s
+  7950K .......... .......... .......... .......... .......... 58% 67.6K 47s
+  8000K .......... .......... .......... .......... .......... 58%  154K 46s
+  8050K .......... .......... .......... .......... .......... 59%  183K 46s
+  8100K .......... .......... .......... .......... .......... 59% 96.0K 45s
+  8150K .......... .......... .......... .......... .......... 59%  184K 45s
+  8200K .......... .......... .......... .......... .......... 60%  101K 44s
+  8250K .......... .......... .......... .......... .......... 60%  187K 44s
+  8300K .......... .......... .......... .......... .......... 60%  101K 44s
+  8350K .......... .......... .......... .......... .......... 61% 81.7K 43s
+  8400K .......... .......... .......... .......... .......... 61%  192K 43s
+  8450K .......... .......... .......... .......... .......... 62% 94.7K 42s
+  8500K .......... .......... .......... .......... .......... 62%  179K 42s
+  8550K .......... .......... .......... .......... .......... 62%  178K 42s
+  8600K .......... .......... .......... .......... .......... 63% 95.4K 41s
+  8650K .......... .......... .......... .......... .......... 63%  104K 41s
+  8700K .......... .......... .......... .......... .......... 63%  170K 40s
+  8750K .......... .......... .......... .......... .......... 64% 86.0K 40s
+  8800K .......... .......... .......... .......... .......... 64%  154K 40s
+  8850K .......... .......... .......... .......... .......... 64%  135K 39s
+  8900K .......... .......... .......... .......... .......... 65% 94.7K 39s
+  8950K .......... .......... .......... .......... .......... 65%  174K 38s
+  9000K .......... .......... .......... .......... .......... 66%  157K 38s
+  9050K .......... .......... .......... .......... .......... 66% 93.0K 38s
+  9100K .......... .......... .......... .......... .......... 66%  170K 37s
+  9150K .......... .......... .......... .......... .......... 67% 86.7K 37s
+  9200K .......... .......... .......... .......... .......... 67%  159K 36s
+  9250K .......... .......... .......... .......... .......... 67%  133K 36s
+  9300K .......... .......... .......... .......... .......... 68% 96.1K 36s
+  9350K .......... .......... .......... .......... .......... 68%  170K 35s
+  9400K .......... .......... .......... .......... .......... 68%  102K 35s
+  9450K .......... .......... .......... .......... .......... 69%  168K 34s
+  9500K .......... .......... .......... .......... .......... 69% 93.4K 34s
+  9550K .......... .......... .......... .......... .......... 70% 98.4K 33s
+  9600K .......... .......... .......... .......... .......... 70%  156K 33s
+  9650K .......... .......... .......... .......... .......... 70% 94.9K 33s
+  9700K .......... .......... .......... .......... .......... 71%  183K 32s
+  9750K .......... .......... .......... .......... .......... 71%  156K 32s
+  9800K .......... .......... .......... .......... .......... 71% 96.8K 31s
+  9850K .......... .......... .......... .......... .......... 72%  183K 31s
+  9900K .......... .......... .......... .......... .......... 72% 96.5K 31s
+  9950K .......... .......... .......... .......... .......... 73%  152K 30s
+ 10000K .......... .......... .......... .......... .......... 73% 93.1K 30s
+ 10050K .......... .......... .......... .......... .......... 73%  179K 29s
+ 10100K .......... .......... .......... .......... .......... 74% 84.6K 29s
+ 10150K .......... .......... .......... .......... .......... 74%  178K 29s
+ 10200K .......... .......... .......... .......... .......... 74%  175K 28s
+ 10250K .......... .......... .......... .......... .......... 75% 92.8K 28s
+ 10300K .......... .......... .......... .......... .......... 75%  188K 27s
+ 10350K .......... .......... .......... .......... .......... 75% 87.9K 27s
+ 10400K .......... .......... .......... .......... .......... 76%  178K 26s
+ 10450K .......... .......... .......... .......... .......... 76% 90.6K 26s
+ 10500K .......... .......... .......... .......... .......... 77%  170K 26s
+ 10550K .......... .......... .......... .......... .......... 77%  159K 25s
+ 10600K .......... .......... .......... .......... .......... 77%  101K 25s
+ 10650K .......... .......... .......... .......... .......... 78%  180K 24s
+ 10700K .......... .......... .......... .......... .......... 78% 90.5K 24s
+ 10750K .......... .......... .......... .......... .......... 78% 90.1K 24s
+ 10800K .......... .......... .......... .......... .......... 79%  165K 23s
+ 10850K .......... .......... .......... .......... .......... 79%  101K 23s
+ 10900K .......... .......... .......... .......... .......... 79%  181K 22s
+ 10950K .......... .......... .......... .......... .......... 80% 92.5K 22s
+ 11000K .......... .......... .......... .......... .......... 80%  159K 22s
+ 11050K .......... .......... .......... .......... .......... 81%  156K 21s
+ 11100K .......... .......... .......... .......... .......... 81% 86.4K 21s
+ 11150K .......... .......... .......... .......... .......... 81%  141K 20s
+ 11200K .......... .......... .......... .......... .......... 82%  101K 20s
+ 11250K .......... .......... .......... .......... .......... 82%  156K 20s
+ 11300K .......... .......... .......... .......... .......... 82% 96.6K 19s
+ 11350K .......... .......... .......... .......... .......... 83%  160K 19s
+ 11400K .......... .......... .......... .......... .......... 83%  175K 18s
+ 11450K .......... .......... .......... .......... .......... 83% 94.8K 18s
+ 11500K .......... .......... .......... .......... .......... 84%  184K 18s
+ 11550K .......... .......... .......... .......... .......... 84% 66.8K 17s
+ 11600K .......... .......... .......... .......... .......... 85% 96.4K 17s
+ 11650K .......... .......... .......... .......... .......... 85%  180K 16s
+ 11700K .......... .......... .......... .......... .......... 85%  102K 16s
+ 11750K .......... .......... .......... .......... .......... 86%  183K 16s
+ 11800K .......... .......... .......... .......... .......... 86% 88.5K 15s
+ 11850K .......... .......... .......... .......... .......... 86%  160K 15s
+ 11900K .......... .......... .......... .......... .......... 87%  156K 14s
+ 11950K .......... .......... .......... .......... .......... 87% 93.2K 14s
+ 12000K .......... .......... .......... .......... .......... 87% 90.4K 14s
+ 12050K .......... .......... .......... .......... .......... 88%  171K 13s
+ 12100K .......... .......... .......... .......... .......... 88%  157K 13s
+ 12150K .......... .......... .......... .......... .......... 89% 90.3K 12s
+ 12200K .......... .......... .......... .......... .......... 89%  188K 12s
+ 12250K .......... .......... .......... .......... .......... 89% 98.3K 11s
+ 12300K .......... .......... .......... .......... .......... 90%  167K 11s
+ 12350K .......... .......... .......... .......... .......... 90% 94.0K 11s
+ 12400K .......... .......... .......... .......... .......... 90%  159K 10s
+ 12450K .......... .......... .......... .......... .......... 91% 96.5K 10s
+ 12500K .......... .......... .......... .......... .......... 91%  162K 9s
+ 12550K .......... .......... .......... .......... .......... 91%  180K 9s
+ 12600K .......... .......... .......... .......... .......... 92% 94.0K 9s
+ 12650K .......... .......... .......... .......... .......... 92%  178K 8s
+ 12700K .......... .......... .......... .......... .......... 93% 95.1K 8s
+ 12750K .......... .......... .......... .......... .......... 93% 99.6K 7s
+ 12800K .......... .......... .......... .......... .......... 93%  185K 7s
+ 12850K .......... .......... .......... .......... .......... 94%  102K 7s
+ 12900K .......... .......... .......... .......... .......... 94%  156K 6s
+ 12950K .......... .......... .......... .......... .......... 94%  100K 6s
+ 13000K .......... .......... .......... .......... .......... 95%  187K 5s
+ 13050K .......... .......... .......... .......... .......... 95% 95.3K 5s
+ 13100K .......... .......... .......... .......... .......... 95%  165K 4s
+ 13150K .......... .......... .......... .......... .......... 96% 81.9K 4s
+ 13200K .......... .......... .......... .......... .......... 96%  178K 4s
+ 13250K .......... .......... .......... .......... .......... 97% 94.9K 3s
+ 13300K .......... .......... .......... .......... .......... 97%  187K 3s
+ 13350K .......... .......... .......... .......... .......... 97%  101K 2s
+ 13400K .......... .......... .......... .......... .......... 98%  159K 2s
+ 13450K .......... .......... .......... .......... .......... 98%  184K 2s
+ 13500K .......... .......... .......... .......... .......... 98%  102K 1s
+ 13550K .......... .......... .......... .......... .......... 99% 98.2K 1s
+ 13600K .......... .......... .......... .......... .......... 99%  101K 0s
+ 13650K .......... .......... .......... .......... ........  100%  586K=1m52s
+
+2019-09-27 02:02:12 (123 KB/s) - ‘/home/lm/books/week109_人像摄影进行时/人像摄影进行时：完美构图.azw3’ saved [14027356/14027356]
+
+=> Download 人像摄影进行时：完美构图.azw3 success.
+=> Start download 人像摄影进行时：完美构图.epub ...
+/home/lm/books/week109_人像摄影进行时/人像摄影进行时：完美构图.epub
+--2019-09-27 02:02:17--  https://ebooksplan.club/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B9%A6/week109_%E4%BA%BA%E5%83%8F%E6%91%84%E5%BD%B1%E8%BF%9B%E8%A1%8C%E6%97%B6/%E4%BA%BA%E5%83%8F%E6%91%84%E5%BD%B1%E8%BF%9B%E8%A1%8C%E6%97%B6%EF%BC%9A%E5%AE%8C%E7%BE%8E%E6%9E%84%E5%9B%BE.epub
+Resolving ebooksplan.club (ebooksplan.club)... 111.231.86.176
+Connecting to ebooksplan.club (ebooksplan.club)|111.231.86.176|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13372322 (13M) [application/octet-stream]
+Saving to: ‘/home/lm/books/week109_人像摄影进行时/人像摄影进行时：完美构图.epub’
+
+     0K .......... .......... .......... .......... ..........  0% 6.18M 2s
+    50K .......... .......... .......... .......... ..........  0% 4.05M 3s
+   100K .......... .......... .......... .......... ..........  1%  184K 25s
+   150K .......... .......... .......... .......... ..........  1%  104K 50s
+   200K .......... .......... .......... .......... ..........  1%  105K 64s
+   250K .......... .......... .......... .......... ..........  2%  192K 64s
+   300K .......... .......... .......... .......... ..........  2% 93.7K 74s
+   350K .......... .......... .......... .......... ..........  3% 93.7K 81s
+   400K .......... .......... .......... .......... ..........  3% 99.3K 86s
+   450K .......... .......... .......... .......... ..........  3%  168K 85s
+   500K .......... .......... .......... .......... ..........  4%  182K 83s
+   550K .......... .......... .......... .......... ..........  4% 88.6K 87s
+   600K .......... .......... .......... .......... ..........  4%  172K 86s
+   650K .......... .......... .......... .......... ..........  5% 99.1K 88s
+   700K .......... .......... .......... .......... ..........  5%  184K 87s
+   750K .......... .......... .......... .......... ..........  6% 93.6K 89s
+   800K .......... .......... .......... .......... ..........  6% 90.7K 91s
+   850K .......... .......... .......... .......... ..........  6%  178K 90s
+   900K .......... .......... .......... .......... ..........  7%  159K 89s
+   950K .......... .......... .......... .......... ..........  7% 91.2K 91s
+  1000K .......... .......... .......... .......... ..........  8%  178K 89s
+  1050K .......... .......... .......... .......... ..........  8% 94.0K 90s
+  1100K .......... .......... .......... .......... ..........  8%  178K 89s
+  1150K .......... .......... .......... .......... ..........  9% 86.0K 91s
+  1200K .......... .......... .......... .......... ..........  9%  174K 89s
+  1250K .......... .......... .......... .......... ..........  9% 94.3K 90s
+  1300K .......... .......... .......... .......... .......... 10%  161K 89s
+  1350K .......... .......... .......... .......... .......... 10%  183K 88s
+  1400K .......... .......... .......... .......... .......... 11% 92.9K 89s
+  1450K .......... .......... .......... .......... .......... 11%  165K 88s
+  1500K .......... .......... .......... .......... .......... 11%  155K 87s
+  1550K .......... .......... .......... .......... .......... 12% 96.9K 88s
+  1600K .......... .......... .......... .......... .......... 12% 94.1K 88s
+  1650K .......... .......... .......... .......... .......... 13%  173K 87s
+  1700K .......... .......... .......... .......... .......... 13% 96.1K 88s
+  1750K .......... .......... .......... .......... .......... 13%  156K 87s
+  1800K .......... .......... .......... .......... .......... 14%  180K 86s
+  1850K .......... .......... .......... .......... .......... 14% 97.0K 86s
+  1900K .......... .......... .......... .......... .......... 14%  183K 85s
+  1950K .......... .......... .......... .......... .......... 15% 84.9K 86s
+  2000K .......... .......... .......... .......... .......... 15%  169K 85s
+  2050K .......... .......... .......... .......... .......... 16% 92.5K 86s
+  2100K .......... .......... .......... .......... .......... 16%  168K 85s
+  2150K .......... .......... .......... .......... .......... 16%  156K 84s
+  2200K .......... .......... .......... .......... .......... 17% 93.6K 84s
+  2250K .......... .......... .......... .......... .......... 17%  159K 84s
+  2300K .......... .......... .......... .......... .......... 17% 95.5K 84s
+  2350K .......... .......... .......... .......... .......... 18%  161K 83s
+  2400K .......... .......... .......... .......... .......... 18% 97.5K 83s
+  2450K .......... .......... .......... .......... .......... 19%  173K 82s
+  2500K .......... .......... .......... .......... .......... 19%  146K 82s
+  2550K .......... .......... .......... .......... .......... 19% 92.8K 82s
+  2600K .......... .......... .......... .......... .......... 20%  183K 81s
+  2650K .......... .......... .......... .......... .......... 20% 87.2K 82s
+  2700K .......... .......... .......... .......... .......... 21%  155K 81s
+  2750K .......... .......... .......... .......... .......... 21% 99.1K 81s
+  2800K .......... .......... .......... .......... .......... 21%  174K 80s
+  2850K .......... .......... .......... .......... .......... 22% 97.9K 80s
+  2900K .......... .......... .......... .......... .......... 22%  142K 80s
+  2950K .......... .......... .......... .......... .......... 22%  179K 79s
+  3000K .......... .......... .......... .......... .......... 23% 87.5K 79s
+  3050K .......... .......... .......... .......... .......... 23%  158K 78s
+  3100K .......... .......... .......... .......... .......... 24%  159K 78s
+  3150K .......... .......... .......... .......... .......... 24% 94.5K 78s
+  3200K .......... .......... .......... .......... .......... 24% 95.5K 78s
+  3250K .......... .......... .......... .......... .......... 25%  144K 77s
+  3300K .......... .......... .......... .......... .......... 25%  178K 76s
+  3350K .......... .......... .......... .......... .......... 26% 91.7K 77s
+  3400K .......... .......... .......... .......... .......... 26%  188K 76s
+  3450K .......... .......... .......... .......... .......... 26%  170K 75s
+  3500K .......... .......... .......... .......... .......... 27% 98.6K 75s
+  3550K .......... .......... .......... .......... .......... 27% 82.1K 75s
+  3600K .......... .......... .......... .......... .......... 27%  167K 75s
+  3650K .......... .......... .......... .......... .......... 28%  154K 74s
+  3700K .......... .......... .......... .......... .......... 28% 96.3K 74s
+  3750K .......... .......... .......... .......... .......... 29%  187K 73s
+  3800K .......... .......... .......... .......... .......... 29%  159K 73s
+  3850K .......... .......... .......... .......... .......... 29% 96.5K 72s
+  3900K .......... .......... .......... .......... .......... 30%  163K 72s
+  3950K .......... .......... .......... .......... .......... 30% 91.6K 72s
+  4000K .......... .......... .......... .......... .......... 31% 90.0K 72s
+  4050K .......... .......... .......... .......... .......... 31%  175K 71s
+  4100K .......... .......... .......... .......... .......... 31%  158K 71s
+  4150K .......... .......... .......... .......... .......... 32% 97.0K 70s
+  4200K .......... .......... .......... .......... .......... 32%  183K 70s
+  4250K .......... .......... .......... .......... .......... 32% 88.6K 70s
+  4300K .......... .......... .......... .......... .......... 33%  174K 69s
+  4350K .......... .......... .......... .......... .......... 33% 89.5K 69s
+  4400K .......... .......... .......... .......... .......... 34%  157K 68s
+  4450K .......... .......... .......... .......... .......... 34% 99.1K 68s
+  4500K .......... .......... .......... .......... .......... 34%  171K 68s
+  4550K .......... .......... .......... .......... .......... 35% 98.0K 67s
+  4600K .......... .......... .......... .......... .......... 35%  179K 67s
+  4650K .......... .......... .......... .......... .......... 35%  101K 67s
+  4700K .......... .......... .......... .......... .......... 36%  144K 66s
+  4750K .......... .......... .......... .......... .......... 36% 92.2K 66s
+  4800K .......... .......... .......... .......... .......... 37%  155K 65s
+  4850K .......... .......... .......... .......... .......... 37%  102K 65s
+  4900K .......... .......... .......... .......... .......... 37%  142K 65s
+  4950K .......... .......... .......... .......... .......... 38%  164K 64s
+  5000K .......... .......... .......... .......... .......... 38% 95.5K 64s
+  5050K .......... .......... .......... .......... .......... 39%  183K 63s
+  5100K .......... .......... .......... .......... .......... 39% 90.7K 63s
+  5150K .......... .......... .......... .......... .......... 39%  158K 63s
+  5200K .......... .......... .......... .......... .......... 40% 92.4K 63s
+  5250K .......... .......... .......... .......... .......... 40%  175K 62s
+  5300K .......... .......... .......... .......... .......... 40% 93.2K 62s
+  5350K .......... .......... .......... .......... .......... 41%  170K 61s
+  5400K .......... .......... .......... .......... .......... 41% 97.7K 61s
+  5450K .......... .......... .......... .......... .......... 42%  180K 60s
+  5500K .......... .......... .......... .......... .......... 42% 89.6K 60s
+  5550K .......... .......... .......... .......... .......... 42%  151K 60s
+  5600K .......... .......... .......... .......... .......... 43% 93.7K 59s
+  5650K .......... .......... .......... .......... .......... 43%  183K 59s
+  5700K .......... .......... .......... .......... .......... 44% 94.1K 59s
+  5750K .......... .......... .......... .......... .......... 44%  170K 58s
+  5800K .......... .......... .......... .......... .......... 44% 99.0K 58s
+  5850K .......... .......... .......... .......... .......... 45%  165K 57s
+  5900K .......... .......... .......... .......... .......... 45%  156K 57s
+  5950K .......... .......... .......... .......... .......... 45% 84.4K 57s
+  6000K .......... .......... .......... .......... .......... 46%  179K 56s
+  6050K .......... .......... .......... .......... .......... 46% 86.3K 56s
+  6100K .......... .......... .......... .......... .......... 47%  187K 55s
+  6150K .......... .......... .......... .......... .......... 47%  156K 55s
+  6200K .......... .......... .......... .......... .......... 47%  101K 55s
+  6250K .......... .......... .......... .......... .......... 48%  187K 54s
+  6300K .......... .......... .......... .......... .......... 48% 88.7K 54s
+  6350K .......... .......... .......... .......... .......... 49%  145K 53s
+  6400K .......... .......... .......... .......... .......... 49% 99.5K 53s
+  6450K .......... .......... .......... .......... .......... 49%  168K 53s
+  6500K .......... .......... .......... .......... .......... 50% 95.3K 52s
+  6550K .......... .......... .......... .......... .......... 50%  172K 52s
+  6600K .......... .......... .......... .......... .......... 50%  154K 51s
+  6650K .......... .......... .......... .......... .......... 51% 98.7K 51s
+  6700K .......... .......... .......... .......... .......... 51%  171K 51s
+  6750K .......... .......... .......... .......... .......... 52% 90.9K 50s
+  6800K .......... .......... .......... .......... .......... 52%  157K 50s
+  6850K .......... .......... .......... .......... .......... 52% 97.7K 49s
+  6900K .......... .......... .......... .......... .......... 53%  104K 49s
+  6950K .......... .......... .......... .......... .......... 53%  165K 49s
+  7000K .......... .......... .......... .......... .......... 53%  156K 48s
+  7050K .......... .......... .......... .......... .......... 54% 94.4K 48s
+  7100K .......... .......... .......... .......... .......... 54%  171K 47s
+  7150K .......... .......... .......... .......... .......... 55% 90.5K 47s
+  7200K .......... .......... .......... .......... .......... 55%  170K 47s
+  7250K .......... .......... .......... .......... .......... 55%  102K 46s
+  7300K .......... .......... .......... .......... .......... 56%  155K 46s
+  7350K .......... .......... .......... .......... .......... 56% 96.2K 46s
+  7400K .......... .......... .......... .......... .......... 57%  156K 45s
+  7450K .......... .......... .......... .......... .......... 57%  175K 45s
+  7500K .......... .......... .......... .......... .......... 57% 94.3K 44s
+  7550K .......... .......... .......... .......... .......... 58% 96.0K 44s
+  7600K .......... .......... .......... .......... .......... 58%  143K 44s
+  7650K .......... .......... .......... .......... .......... 58%  161K 43s
+  7700K .......... .......... .......... .......... .......... 59% 93.7K 43s
+  7750K .......... .......... .......... .......... .......... 59%  176K 42s
+  7800K .......... .......... .......... .......... .......... 60% 94.2K 42s
+  7850K .......... .......... .......... .......... .......... 60%  183K 41s
+  7900K .......... .......... .......... .......... .......... 60%  154K 41s
+  7950K .......... .......... .......... .......... .......... 61% 89.0K 41s
+  8000K .......... .......... .......... .......... .......... 61% 95.5K 40s
+  8050K .......... .......... .......... .......... .......... 62%  145K 40s
+  8100K .......... .......... .......... .......... .......... 62%  167K 39s
+  8150K .......... .......... .......... .......... .......... 62% 95.6K 39s
+  8200K .......... .......... .......... .......... .......... 63%  186K 39s
+  8250K .......... .......... .......... .......... .......... 63%  141K 38s
+  8300K .......... .......... .......... .......... .......... 63%  101K 38s
+  8350K .......... .......... .......... .......... .......... 64% 84.1K 38s
+  8400K .......... .......... .......... .......... .......... 64%  183K 37s
+  8450K .......... .......... .......... .......... .......... 65% 97.2K 37s
+  8500K .......... .......... .......... .......... .......... 65%  173K 36s
+  8550K .......... .......... .......... .......... .......... 65% 92.8K 36s
+  8600K .......... .......... .......... .......... .......... 66%  179K 35s
+  8650K .......... .......... .......... .......... .......... 66%  102K 35s
+  8700K .......... .......... .......... .......... .......... 67%  180K 35s
+  8750K .......... .......... .......... .......... .......... 67% 81.2K 34s
+  8800K .......... .......... .......... .......... .......... 67%  175K 34s
+  8850K .......... .......... .......... .......... .......... 68% 91.8K 34s
+  8900K .......... .......... .......... .......... .......... 68%  144K 33s
+  8950K .......... .......... .......... .......... .......... 68%  166K 33s
+  9000K .......... .......... .......... .......... .......... 69% 98.2K 32s
+  9050K .......... .......... .......... .......... .......... 69%  168K 32s
+  9100K .......... .......... .......... .......... .......... 70% 96.2K 32s
+  9150K .......... .......... .......... .......... .......... 70% 94.0K 31s
+  9200K .......... .......... .......... .......... .......... 70%  172K 31s
+  9250K .......... .......... .......... .......... .......... 71%  168K 30s
+  9300K .......... .......... .......... .......... .......... 71% 93.9K 30s
+  9350K .......... .......... .......... .......... .......... 71%  184K 29s
+  9400K .......... .......... .......... .......... .......... 72% 87.4K 29s
+  9450K .......... .......... .......... .......... .......... 72%  168K 29s
+  9500K .......... .......... .......... .......... .......... 73%  171K 28s
+  9550K .......... .......... .......... .......... .......... 73% 84.3K 28s
+  9600K .......... .......... .......... .......... .......... 73% 97.0K 28s
+  9650K .......... .......... .......... .......... .......... 74%  166K 27s
+  9700K .......... .......... .......... .......... .......... 74% 94.0K 27s
+  9750K .......... .......... .......... .......... .......... 75%  158K 26s
+  9800K .......... .......... .......... .......... .......... 75%  171K 26s
+  9850K .......... .......... .......... .......... .......... 75% 94.1K 26s
+  9900K .......... .......... .......... .......... .......... 76%  169K 25s
+  9950K .......... .......... .......... .......... .......... 76% 89.1K 25s
+ 10000K .......... .......... .......... .......... .......... 76%  184K 24s
+ 10050K .......... .......... .......... .......... .......... 77% 90.5K 24s
+ 10100K .......... .......... .......... .......... .......... 77%  158K 24s
+ 10150K .......... .......... .......... .......... .......... 78%  183K 23s
+ 10200K .......... .......... .......... .......... .......... 78% 98.1K 23s
+ 10250K .......... .......... .......... .......... .......... 78%  168K 22s
+ 10300K .......... .......... .......... .......... .......... 79% 96.0K 22s
+ 10350K .......... .......... .......... .......... .......... 79% 95.3K 22s
+ 10400K .......... .......... .......... .......... .......... 80%  166K 21s
+ 10450K .......... .......... .......... .......... .......... 80%  164K 21s
+ 10500K .......... .......... .......... .......... .......... 80%  100K 20s
+ 10550K .......... .......... .......... .......... .......... 81%  159K 20s
+ 10600K .......... .......... .......... .......... .......... 81% 90.2K 19s
+ 10650K .......... .......... .......... .......... .......... 81%  179K 19s
+ 10700K .......... .......... .......... .......... .......... 82%  155K 19s
+ 10750K .......... .......... .......... .......... .......... 82% 89.8K 18s
+ 10800K .......... .......... .......... .......... .......... 83%  160K 18s
+ 10850K .......... .......... .......... .......... .......... 83% 98.8K 17s
+ 10900K .......... .......... .......... .......... .......... 83%  171K 17s
+ 10950K .......... .......... .......... .......... .......... 84% 94.3K 17s
+ 11000K .......... .......... .......... .......... .......... 84%  183K 16s
+ 11050K .......... .......... .......... .......... .......... 84% 94.9K 16s
+ 11100K .......... .......... .......... .......... .......... 85%  183K 15s
+ 11150K .......... .......... .......... .......... .......... 85% 97.0K 15s
+ 11200K .......... .......... .......... .......... .......... 86%  166K 15s
+ 11250K .......... .......... .......... .......... .......... 86% 92.4K 14s
+ 11300K .......... .......... .......... .......... .......... 86%  161K 14s
+ 11350K .......... .......... .......... .......... .......... 87%  157K 13s
+ 11400K .......... .......... .......... .......... .......... 87% 96.8K 13s
+ 11450K .......... .......... .......... .......... .......... 88%  176K 13s
+ 11500K .......... .......... .......... .......... .......... 88%  102K 12s
+ 11550K .......... .......... .......... .......... .......... 88% 86.1K 12s
+ 11600K .......... .......... .......... .......... .......... 89%  175K 11s
+ 11650K .......... .......... .......... .......... .......... 89%  158K 11s
+ 11700K .......... .......... .......... .......... .......... 89% 97.7K 11s
+ 11750K .......... .......... .......... .......... .......... 90%  187K 10s
+ 11800K .......... .......... .......... .......... .......... 90%  134K 10s
+ 11850K .......... .......... .......... .......... .......... 91% 98.6K 9s
+ 11900K .......... .......... .......... .......... .......... 91%  170K 9s
+ 11950K .......... .......... .......... .......... .......... 91% 90.7K 9s
+ 12000K .......... .......... .......... .......... .......... 92%  158K 8s
+ 12050K .......... .......... .......... .......... .......... 92% 91.2K 8s
+ 12100K .......... .......... .......... .......... .......... 93%  184K 7s
+ 12150K .......... .......... .......... .......... .......... 93%  102K 7s
+ 12200K .......... .......... .......... .......... .......... 93%  159K 7s
+ 12250K .......... .......... .......... .......... .......... 94%  157K 6s
+ 12300K .......... .......... .......... .......... .......... 94%  100K 6s
+ 12350K .......... .......... .......... .......... .......... 94% 90.1K 5s
+ 12400K .......... .......... .......... .......... .......... 95% 67.8K 5s
+ 12450K .......... .......... .......... .......... .......... 95%  168K 5s
+ 12500K .......... .......... .......... .......... .......... 96% 66.9K 4s
+ 12550K .......... .......... .......... .......... .......... 96%  160K 4s
+ 12600K .......... .......... .......... .......... .......... 96%  164K 3s
+ 12650K .......... .......... .......... .......... .......... 97% 97.9K 3s
+ 12700K .......... .......... .......... .......... .......... 97% 99.4K 3s
+ 12750K .......... .......... .......... .......... .......... 98% 90.7K 2s
+ 12800K .......... .......... .......... .......... .......... 98%  171K 2s
+ 12850K .......... .......... .......... .......... .......... 98% 93.4K 1s
+ 12900K .......... .......... .......... .......... .......... 99% 98.0K 1s
+ 12950K .......... .......... .......... .......... .......... 99% 92.9K 0s
+ 13000K .......... .......... .......... .......... .......... 99% 97.5K 0s
+ 13050K ........                                              100% 1.59M=1m47s
+
+2019-09-27 02:04:04 (122 KB/s) - ‘/home/lm/books/week109_人像摄影进行时/人像摄影进行时：完美构图.epub’ saved [13372322/13372322]
+
+=> Download 人像摄影进行时：完美构图.epub success.
+=> Start download 人像摄影进行时：完美构图mobi ...
+/home/lm/books/week109_人像摄影进行时/人像摄影进行时：完美构图mobi
+--2019-09-27 02:04:09--  https://ebooksplan.club/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B9%A6/week109_%E4%BA%BA%E5%83%8F%E6%91%84%E5%BD%B1%E8%BF%9B%E8%A1%8C%E6%97%B6/%E4%BA%BA%E5%83%8F%E6%91%84%E5%BD%B1%E8%BF%9B%E8%A1%8C%E6%97%B6%EF%BC%9A%E5%AE%8C%E7%BE%8E%E6%9E%84%E5%9B%BEmobi
+Resolving ebooksplan.club (ebooksplan.club)... 111.231.86.176
+Connecting to ebooksplan.club (ebooksplan.club)|111.231.86.176|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10553428 (10M) [application/octet-stream]
+Saving to: ‘/home/lm/books/week109_人像摄影进行时/人像摄影进行时：完美构图mobi’
+
+     0K .......... .......... .......... .......... ..........  0% 54.6K 3m8s
+    50K .......... .......... .......... .......... ..........  0% 52.2K 3m11s
+   100K .......... .......... .......... .......... ..........  1% 91.4K 2m44s
+   150K .......... .......... .......... .......... ..........  1% 96.7K 2m28s
+   200K .......... .......... .......... .......... ..........  2% 31.2K 3m3s
+   250K .......... .......... .......... .......... ..........  2% 69.2K 2m56s
+   300K .......... .......... .......... .......... ..........  3% 66.3K 2m51s
+   350K .......... .......... .......... .......... ..........  3% 49.5K 2m54s
+   400K .......... .......... .......... .......... ..........  4% 94.4K 2m46s
+   450K .......... .......... .......... .......... ..........  4% 98.8K 2m38s
+   500K .......... .......... .......... .......... ..........  5% 68.1K 2m36s
+   550K .......... .......... .......... .......... ..........  5% 66.0K 2m35s
+   600K .......... .......... .......... .......... ..........  6% 97.5K 2m30s
+   650K .......... .......... .......... .......... ..........  6% 92.2K 2m26s
+   700K .......... .......... .......... .......... ..........  7%  164K 2m19s
+   750K .......... .......... .......... .......... ..........  7% 62.0K 2m19s
+   800K .......... .......... .......... .......... ..........  8%  155K 2m14s
+   850K .......... .......... .......... .......... ..........  8%  163K 2m9s
+   900K .......... .......... .......... .......... ..........  9% 90.3K 2m7s
+   950K .......... .......... .......... .......... ..........  9%  161K 2m3s
+  1000K .......... .......... .......... .......... .......... 10% 95.7K 2m1s
+  1050K .......... .......... .......... .......... .......... 10% 92.2K 2m0s
+  1100K .......... .......... .......... .......... .......... 11%  144K 1m56s
+  1150K .......... .......... .......... .......... .......... 11% 88.6K 1m55s
+  1200K .......... .......... .......... .......... .......... 12%  171K 1m52s
+  1250K .......... .......... .......... .......... .......... 12% 96.5K 1m51s
+  1300K .......... .......... .......... .......... .......... 13%  172K 1m48s
+  1350K .......... .......... .......... .......... .......... 13%  161K 1m46s
+  1400K .......... .......... .......... .......... .......... 14% 87.6K 1m45s
+  1450K .......... .......... .......... .......... .......... 14%  175K 1m43s
+  1500K .......... .......... .......... .......... .......... 15%  167K 1m40s
+  1550K .......... .......... .......... .......... .......... 15% 88.1K 1m40s
+  1600K .......... .......... .......... .......... .......... 16% 94.2K 99s
+  1650K .......... .......... .......... .......... .......... 16%  172K 97s
+  1700K .......... .......... .......... .......... .......... 16%  175K 95s
+  1750K .......... .......... .......... .......... .......... 17% 91.9K 94s
+  1800K .......... .......... .......... .......... .......... 17%  172K 93s
+  1850K .......... .......... .......... .......... .......... 18% 93.0K 92s
+  1900K .......... .......... .......... .......... .......... 18%  162K 90s
+  1950K .......... .......... .......... .......... .......... 19% 97.2K 90s
+  2000K .......... .......... .......... .......... .......... 19% 96.1K 89s
+  2050K .......... .......... .......... .......... .......... 20%  156K 88s
+  2100K .......... .......... .......... .......... .......... 20% 94.5K 87s
+  2150K .......... .......... .......... .......... .......... 21%  161K 86s
+  2200K .......... .......... .......... .......... .......... 21%  163K 85s
+  2250K .......... .......... .......... .......... .......... 22% 88.7K 84s
+  2300K .......... .......... .......... .......... .......... 22%  156K 83s
+  2350K .......... .......... .......... .......... .......... 23% 94.8K 82s
+  2400K .......... .......... .......... .......... .......... 23%  176K 81s
+  2450K .......... .......... .......... .......... .......... 24% 96.8K 81s
+  2500K .......... .......... .......... .......... .......... 24%  156K 80s
+  2550K .......... .......... .......... .......... .......... 25%  147K 79s
+  2600K .......... .......... .......... .......... .......... 25% 95.1K 78s
+  2650K .......... .......... .......... .......... .......... 26%  176K 77s
+  2700K .......... .......... .......... .......... .......... 26% 94.0K 76s
+  2750K .......... .......... .......... .......... .......... 27% 84.6K 76s
+  2800K .......... .......... .......... .......... .......... 27%  163K 75s
+  2850K .......... .......... .......... .......... .......... 28% 98.9K 75s
+  2900K .......... .......... .......... .......... .......... 28%  162K 74s
+  2950K .......... .......... .......... .......... .......... 29%  155K 73s
+  3000K .......... .......... .......... .......... .......... 29% 95.0K 72s
+  3050K .......... .......... .......... .......... .......... 30%  160K 71s
+  3100K .......... .......... .......... .......... .......... 30%  157K 70s
+  3150K .......... .......... .......... .......... .......... 31% 92.5K 70s
+  3200K .......... .......... .......... .......... .......... 31%  156K 69s
+  3250K .......... .......... .......... .......... .......... 32% 95.1K 69s
+  3300K .......... .......... .......... .......... .......... 32%  162K 68s
+  3350K .......... .......... .......... .......... .......... 32% 93.4K 68s
+  3400K .......... .......... .......... .......... .......... 33%  166K 67s
+  3450K .......... .......... .......... .......... .......... 33%  155K 66s
+  3500K .......... .......... .......... .......... .......... 34% 93.8K 65s
+  3550K .......... .......... .......... .......... .......... 34%  150K 65s
+  3600K .......... .......... .......... .......... .......... 35% 92.2K 64s
+  3650K .......... .......... .......... .......... .......... 35%  157K 64s
+  3700K .......... .......... .......... .......... .......... 36%  159K 63s
+  3750K .......... .......... .......... .......... .......... 36% 96.2K 62s
+  3800K .......... .......... .......... .......... .......... 37%  160K 62s
+  3850K .......... .......... .......... .......... .......... 37%  179K 61s
+  3900K .......... .......... .......... .......... .......... 38% 88.4K 60s
+  3950K .......... .......... .......... .......... .......... 38% 87.0K 60s
+  4000K .......... .......... .......... .......... .......... 39%  169K 59s
+  4050K .......... .......... .......... .......... .......... 39%  173K 59s
+  4100K .......... .......... .......... .......... .......... 40% 88.4K 58s
+  4150K .......... .......... .......... .......... .......... 40%  164K 58s
+  4200K .......... .......... .......... .......... .......... 41%  159K 57s
+  4250K .......... .......... .......... .......... .......... 41% 94.0K 57s
+  4300K .......... .......... .......... .......... .......... 42%  171K 56s
+  4350K .......... .......... .......... .......... .......... 42% 92.7K 55s
+  4400K .......... .......... .......... .......... .......... 43%  171K 55s
+  4450K .......... .......... .......... .......... .......... 43% 91.1K 54s
+  4500K .......... .......... .......... .......... .......... 44%  158K 54s
+  4550K .......... .......... .......... .......... .......... 44%  101K 53s
+  4600K .......... .......... .......... .......... .......... 45%  157K 53s
+  4650K .......... .......... .......... .......... .......... 45%  160K 52s
+  4700K .......... .......... .......... .......... .......... 46%  137K 51s
+  4750K .......... .......... .......... .......... .......... 46% 95.6K 51s
+  4800K .......... .......... .......... .......... .......... 47% 98.2K 51s
+  4850K .......... .......... .......... .......... .......... 47%  166K 50s
+  4900K .......... .......... .......... .......... .......... 48%  157K 49s
+  4950K .......... .......... .......... .......... .......... 48% 96.2K 49s
+  5000K .......... .......... .......... .......... .......... 49%  145K 48s
+  5050K .......... .......... .......... .......... .......... 49%  159K 48s
+  5100K .......... .......... .......... .......... .......... 49% 90.8K 47s
+  5150K .......... .......... .......... .......... .......... 50% 92.9K 47s
+  5200K .......... .......... .......... .......... .......... 50%  161K 46s
+  5250K .......... .......... .......... .......... .......... 51%  175K 46s
+  5300K .......... .......... .......... .......... .......... 51% 94.6K 45s
+  5350K .......... .......... .......... .......... .......... 52%  186K 45s
+  5400K .......... .......... .......... .......... .......... 52%  148K 44s
+  5450K .......... .......... .......... .......... .......... 53% 93.0K 44s
+  5500K .......... .......... .......... .......... .......... 53%  174K 43s
+  5550K .......... .......... .......... .......... .......... 54% 90.3K 43s
+  5600K .......... .......... .......... .......... .......... 54% 91.2K 42s
+  5650K .......... .......... .......... .......... .......... 55%  179K 42s
+  5700K .......... .......... .......... .......... .......... 55%  168K 41s
+  5750K .......... .......... .......... .......... .......... 56% 90.8K 41s
+  5800K .......... .......... .......... .......... .......... 56%  174K 40s
+  5850K .......... .......... .......... .......... .......... 57% 94.5K 40s
+  5900K .......... .......... .......... .......... .......... 57%  171K 39s
+  5950K .......... .......... .......... .......... .......... 58% 91.8K 39s
+  6000K .......... .......... .......... .......... .......... 58%  179K 38s
+  6050K .......... .......... .......... .......... .......... 59% 87.3K 38s
+  6100K .......... .......... .......... .......... .......... 59%  171K 37s
+  6150K .......... .......... .......... .......... .......... 60% 94.3K 37s
+  6200K .......... .......... .......... .......... .......... 60%  175K 37s
+  6250K .......... .......... .......... .......... .......... 61%  171K 36s
+  6300K .......... .......... .......... .......... .......... 61%  102K 36s
+  6350K .......... .......... .......... .......... .......... 62% 88.2K 35s
+  6400K .......... .......... .......... .......... .......... 62%  183K 35s
+  6450K .......... .......... .......... .......... .......... 63% 97.8K 34s
+  6500K .......... .......... .......... .......... .......... 63%  170K 34s
+  6550K .......... .......... .......... .......... .......... 64% 94.4K 33s
+  6600K .......... .......... .......... .......... .......... 64%  180K 33s
+  6650K .......... .......... .......... .......... .......... 65% 94.2K 32s
+  6700K .......... .......... .......... .......... .......... 65%  164K 32s
+  6750K .......... .......... .......... .......... .......... 65% 84.8K 31s
+  6800K .......... .......... .......... .......... .......... 66%  164K 31s
+  6850K .......... .......... .......... .......... .......... 66%  160K 30s
+  6900K .......... .......... .......... .......... .......... 67% 93.7K 30s
+  6950K .......... .......... .......... .......... .......... 67%  174K 29s
+  7000K .......... .......... .......... .......... .......... 68%  147K 29s
+  7050K .......... .......... .......... .......... .......... 68% 94.6K 29s
+  7100K .......... .......... .......... .......... .......... 69%  169K 28s
+  7150K .......... .......... .......... .......... .......... 69% 89.1K 28s
+  7200K .......... .......... .......... .......... .......... 70%  175K 27s
+  7250K .......... .......... .......... .......... .......... 70% 95.4K 27s
+  7300K .......... .......... .......... .......... .......... 71%  174K 26s
+  7350K .......... .......... .......... .......... .......... 71%  138K 26s
+  7400K .......... .......... .......... .......... .......... 72% 96.0K 25s
+  7450K .......... .......... .......... .......... .......... 72%  174K 25s
+  7500K .......... .......... .......... .......... .......... 73%  138K 24s
+  7550K .......... .......... .......... .......... .......... 73% 68.6K 24s
+  7600K .......... .......... .......... .......... .......... 74%  171K 24s
+  7650K .......... .......... .......... .......... .......... 74%  154K 23s
+  7700K .......... .......... .......... .......... .......... 75% 90.0K 23s
+  7750K .......... .......... .......... .......... .......... 75%  170K 22s
+  7800K .......... .......... .......... .......... .......... 76%  161K 22s
+  7850K .......... .......... .......... .......... .......... 76% 90.4K 21s
+  7900K .......... .......... .......... .......... .......... 77%  160K 21s
+  7950K .......... .......... .......... .......... .......... 77% 86.2K 20s
+  8000K .......... .......... .......... .......... .......... 78%  161K 20s
+  8050K .......... .......... .......... .......... .......... 78% 98.6K 19s
+  8100K .......... .......... .......... .......... .......... 79%  187K 19s
+  8150K .......... .......... .......... .......... .......... 79%  152K 19s
+  8200K .......... .......... .......... .......... .......... 80% 88.3K 18s
+  8250K .......... .......... .......... .......... .......... 80%  163K 18s
+  8300K .......... .......... .......... .......... .......... 81%  171K 17s
+  8350K .......... .......... .......... .......... .......... 81% 85.7K 17s
+  8400K .......... .......... .......... .......... .......... 81% 97.9K 16s
+  8450K .......... .......... .......... .......... .......... 82%  175K 16s
+  8500K .......... .......... .......... .......... .......... 82%  171K 15s
+  8550K .......... .......... .......... .......... .......... 83% 85.8K 15s
+  8600K .......... .......... .......... .......... .......... 83%  163K 15s
+  8650K .......... .......... .......... .......... .......... 84%  159K 14s
+  8700K .......... .......... .......... .......... .......... 84% 94.6K 14s
+  8750K .......... .......... .......... .......... .......... 85% 92.2K 13s
+  8800K .......... .......... .......... .......... .......... 85%  162K 13s
+  8850K .......... .......... .......... .......... .......... 86%  162K 12s
+  8900K .......... .......... .......... .......... .......... 86% 91.1K 12s
+  8950K .......... .......... .......... .......... .......... 87%  184K 11s
+  9000K .......... .......... .......... .......... .......... 87%  154K 11s
+  9050K .......... .......... .......... .......... .......... 88% 88.6K 11s
+  9100K .......... .......... .......... .......... .......... 88%  154K 10s
+  9150K .......... .......... .......... .......... .......... 89% 92.6K 10s
+  9200K .......... .......... .......... .......... .......... 89%  172K 9s
+  9250K .......... .......... .......... .......... .......... 90% 92.0K 9s
+  9300K .......... .......... .......... .......... .......... 90%  174K 8s
+  9350K .......... .......... .......... .......... .......... 91%  168K 8s
+  9400K .......... .......... .......... .......... .......... 91% 91.7K 7s
+  9450K .......... .......... .......... .......... .......... 92%  169K 7s
+  9500K .......... .......... .......... .......... .......... 92% 95.3K 7s
+  9550K .......... .......... .......... .......... .......... 93%  166K 6s
+  9600K .......... .......... .......... .......... .......... 93% 94.0K 6s
+  9650K .......... .......... .......... .......... .......... 94%  163K 5s
+  9700K .......... .......... .......... .......... .......... 94%  153K 5s
+  9750K .......... .......... .......... .......... .......... 95% 90.7K 4s
+  9800K .......... .......... .......... .......... .......... 95%  184K 4s
+  9850K .......... .......... .......... .......... .......... 96%  140K 4s
+  9900K .......... .......... .......... .......... .......... 96% 97.0K 3s
+  9950K .......... .......... .......... .......... .......... 97% 83.0K 3s
+ 10000K .......... .......... .......... .......... .......... 97%  171K 2s
+ 10050K .......... .......... .......... .......... .......... 98%  170K 2s
+ 10100K .......... .......... .......... .......... .......... 98% 93.9K 1s
+ 10150K .......... .......... .......... .......... .......... 98%  162K 1s
+ 10200K .......... .......... .......... .......... .......... 99%  183K 0s
+ 10250K .......... .......... .......... .......... .......... 99% 88.6K 0s
+ 10300K ......                                                100% 1.18M=89s
+
+2019-09-27 02:05:39 (116 KB/s) - ‘/home/lm/books/week109_人像摄影进行时/人像摄影进行时：完美构图mobi’ saved [10553428/10553428]
+
+=> Download 人像摄影进行时：完美构图mobi success.
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13057    0 13057    0     0  93530      0 --:--:-- --:--:-- --:--:-- 93935
+=> Start download photo_2019-09-2414.08.23.jpeg ...
+/home/lm/books/week110_渐行渐远的红利/photo_2019-09-2414.08.23.jpeg
+--2019-09-27 02:05:44--  https://ebooksplan.club/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B9%A6/week110_%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C%E7%9A%84%E7%BA%A2%E5%88%A9/photo_2019-09-24%2014.08.23.jpeg
+Resolving ebooksplan.club (ebooksplan.club)... 111.231.86.176
+Connecting to ebooksplan.club (ebooksplan.club)|111.231.86.176|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 31855 (31K) [image/jpeg]
+Saving to: ‘/home/lm/books/week110_渐行渐远的红利/photo_2019-09-2414.08.23.jpeg’
+
+     0K .......... .......... .......... .                    100% 5.61M=0.005s
+
+2019-09-27 02:05:44 (5.61 MB/s) - ‘/home/lm/books/week110_渐行渐远的红利/photo_2019-09-2414.08.23.jpeg’ saved [31855/31855]
+
+=> Download photo_2019-09-2414.08.23.jpeg success.
+=> Start download 渐行渐远的红利：寻找中国新平衡.azw3 ...
+/home/lm/books/week110_渐行渐远的红利/渐行渐远的红利：寻找中国新平衡.azw3
+--2019-09-27 02:05:49--  https://ebooksplan.club/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B9%A6/week110_%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C%E7%9A%84%E7%BA%A2%E5%88%A9/%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C%E7%9A%84%E7%BA%A2%E5%88%A9%EF%BC%9A%E5%AF%BB%E6%89%BE%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%B9%B3%E8%A1%A1.azw3
+Resolving ebooksplan.club (ebooksplan.club)... 111.231.86.176
+Connecting to ebooksplan.club (ebooksplan.club)|111.231.86.176|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4329173 (4.1M) [application/octet-stream]
+Saving to: ‘/home/lm/books/week110_渐行渐远的红利/渐行渐远的红利：寻找中国新平衡.azw3’
+
+     0K .......... .......... .......... .......... ..........  1% 2.38M 2s
+    50K .......... .......... .......... .......... ..........  2% 2.72M 2s
+   100K .......... .......... .......... .......... ..........  3%  175K 9s
+   150K .......... .......... .......... .......... ..........  4% 99.1K 17s
+   200K .......... .......... .......... .......... ..........  5%  165K 18s
+   250K .......... .......... .......... .......... ..........  7%  104K 21s
+   300K .......... .......... .......... .......... ..........  8%  159K 21s
+   350K .......... .......... .......... .......... ..........  9% 95.8K 23s
+   400K .......... .......... .......... .......... .......... 10% 99.6K 25s
+   450K .......... .......... .......... .......... .......... 11%  171K 24s
+   500K .......... .......... .......... .......... .......... 13%  178K 24s
+   550K .......... .......... .......... .......... .......... 14% 97.3K 24s
+   600K .......... .......... .......... .......... .......... 15%  147K 24s
+   650K .......... .......... .......... .......... .......... 16% 98.3K 25s
+   700K .......... .......... .......... .......... .......... 17%  175K 24s
+   750K .......... .......... .......... .......... .......... 18% 95.9K 24s
+   800K .......... .......... .......... .......... .......... 20%  144K 24s
+   850K .......... .......... .......... .......... .......... 21%  101K 24s
+   900K .......... .......... .......... .......... .......... 22%  168K 24s
+   950K .......... .......... .......... .......... .......... 23%  102K 24s
+  1000K .......... .......... .......... .......... .......... 24%  172K 23s
+  1050K .......... .......... .......... .......... .......... 26% 94.9K 23s
+  1100K .......... .......... .......... .......... .......... 27%  173K 23s
+  1150K .......... .......... .......... .......... .......... 28% 87.4K 23s
+  1200K .......... .......... .......... .......... .......... 29%  152K 22s
+  1250K .......... .......... .......... .......... .......... 30% 99.6K 22s
+  1300K .......... .......... .......... .......... .......... 31%  177K 22s
+  1350K .......... .......... .......... .......... .......... 33%  102K 21s
+  1400K .......... .......... .......... .......... .......... 34%  169K 21s
+  1450K .......... .......... .......... .......... .......... 35% 93.4K 21s
+  1500K .......... .......... .......... .......... .......... 36%  192K 20s
+  1550K .......... .......... .......... .......... .......... 37% 81.5K 20s
+  1600K .......... .......... .......... .......... .......... 39%  173K 20s
+  1650K .......... .......... .......... .......... .......... 40% 92.7K 20s
+  1700K .......... .......... .......... .......... .......... 41%  146K 19s
+  1750K .......... .......... .......... .......... .......... 42%  165K 19s
+  1800K .......... .......... .......... .......... .......... 43% 95.4K 18s
+  1850K .......... .......... .......... .......... .......... 44%  183K 18s
+  1900K .......... .......... .......... .......... .......... 46%  172K 17s
+  1950K .......... .......... .......... .......... .......... 47% 91.6K 17s
+  2000K .......... .......... .......... .......... .......... 48% 97.8K 17s
+  2050K .......... .......... .......... .......... .......... 49%  188K 16s
+  2100K .......... .......... .......... .......... .......... 50% 89.5K 16s
+  2150K .......... .......... .......... .......... .......... 52%  164K 16s
+  2200K .......... .......... .......... .......... .......... 53%  169K 15s
+  2250K .......... .......... .......... .......... .......... 54% 99.5K 15s
+  2300K .......... .......... .......... .......... .......... 55%  146K 15s
+  2350K .......... .......... .......... .......... .......... 56% 91.6K 14s
+  2400K .......... .......... .......... .......... .......... 57%  186K 14s
+  2450K .......... .......... .......... .......... .......... 59% 90.6K 14s
+  2500K .......... .......... .......... .......... .......... 60%  180K 13s
+  2550K .......... .......... .......... .......... .......... 61% 69.1K 13s
+  2600K .......... .......... .......... .......... .......... 62% 98.5K 13s
+  2650K .......... .......... .......... .......... .......... 63% 97.0K 12s
+  2700K .......... .......... .......... .......... .......... 65%  184K 12s
+  2750K .......... .......... .......... .......... .......... 66% 85.5K 11s
+  2800K .......... .......... .......... .......... .......... 67% 99.6K 11s
+  2850K .......... .......... .......... .......... .......... 68%  182K 11s
+  2900K .......... .......... .......... .......... .......... 69%  100K 10s
+  2950K .......... .......... .......... .......... .......... 70%  184K 10s
+  3000K .......... .......... .......... .......... .......... 72%  154K 9s
+  3050K .......... .......... .......... .......... .......... 73% 93.0K 9s
+  3100K .......... .......... .......... .......... .......... 74%  178K 9s
+  3150K .......... .......... .......... .......... .......... 75% 93.7K 8s
+  3200K .......... .......... .......... .......... .......... 76% 94.5K 8s
+  3250K .......... .......... .......... .......... .......... 78%  187K 7s
+  3300K .......... .......... .......... .......... .......... 79% 98.9K 7s
+  3350K .......... .......... .......... .......... .......... 80%  165K 7s
+  3400K .......... .......... .......... .......... .......... 81% 93.6K 6s
+  3450K .......... .......... .......... .......... .......... 82%  160K 6s
+  3500K .......... .......... .......... .......... .......... 83%  171K 5s
+  3550K .......... .......... .......... .......... .......... 85% 89.2K 5s
+  3600K .......... .......... .......... .......... .......... 86% 98.9K 5s
+  3650K .......... .......... .......... .......... .......... 87%  187K 4s
+  3700K .......... .......... .......... .......... .......... 88% 93.5K 4s
+  3750K .......... .......... .......... .......... .......... 89%  169K 3s
+  3800K .......... .......... .......... .......... .......... 91% 98.0K 3s
+  3850K .......... .......... .......... .......... .......... 92%  157K 3s
+  3900K .......... .......... .......... .......... .......... 93%  187K 2s
+  3950K .......... .......... .......... .......... .......... 94% 88.3K 2s
+  4000K .......... .......... .......... .......... .......... 95% 90.9K 1s
+  4050K .......... .......... .......... .......... .......... 96%  173K 1s
+  4100K .......... .......... .......... .......... .......... 98%  157K 1s
+  4150K .......... .......... .......... .......... .......... 99%  101K 0s
+  4200K .......... .......... .......                         100% 1.28M=34s
+
+2019-09-27 02:06:23 (125 KB/s) - ‘/home/lm/books/week110_渐行渐远的红利/渐行渐远的红利：寻找中国新平衡.azw3’ saved [4329173/4329173]
+
+=> Download 渐行渐远的红利：寻找中国新平衡.azw3 success.
+=> Start download 渐行渐远的红利：寻找中国新平衡.epub ...
+/home/lm/books/week110_渐行渐远的红利/渐行渐远的红利：寻找中国新平衡.epub
+--2019-09-27 02:06:28--  https://ebooksplan.club/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B9%A6/week110_%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C%E7%9A%84%E7%BA%A2%E5%88%A9/%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C%E7%9A%84%E7%BA%A2%E5%88%A9%EF%BC%9A%E5%AF%BB%E6%89%BE%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%B9%B3%E8%A1%A1.epub
+Resolving ebooksplan.club (ebooksplan.club)... 111.231.86.176
+Connecting to ebooksplan.club (ebooksplan.club)|111.231.86.176|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3471634 (3.3M) [application/octet-stream]
+Saving to: ‘/home/lm/books/week110_渐行渐远的红利/渐行渐远的红利：寻找中国新平衡.epub’
+
+     0K .......... .......... .......... .......... ..........  1% 2.07M 2s
+    50K .......... .......... .......... .......... ..........  2% 2.07M 2s
+   100K .......... .......... .......... .......... ..........  4%  196K 7s
+   150K .......... .......... .......... .......... ..........  5% 99.8K 13s
+   200K .......... .......... .......... .......... ..........  7%  165K 14s
+   250K .......... .......... .......... .......... ..........  8% 96.9K 17s
+   300K .......... .......... .......... .......... .......... 10%  184K 16s
+   350K .......... .......... .......... .......... .......... 11% 85.9K 19s
+   400K .......... .......... .......... .......... .......... 13%  179K 18s
+   450K .......... .......... .......... .......... .......... 14% 93.7K 19s
+   500K .......... .......... .......... .......... .......... 16%  153K 19s
+   550K .......... .......... .......... .......... .......... 17%  179K 18s
+   600K .......... .......... .......... .......... .......... 19% 93.6K 19s
+   650K .......... .......... .......... .......... .......... 20%  167K 18s
+   700K .......... .......... .......... .......... .......... 22% 97.8K 18s
+   750K .......... .......... .......... .......... .......... 23%  136K 18s
+   800K .......... .......... .......... .......... .......... 25% 93.0K 18s
+   850K .......... .......... .......... .......... .......... 26% 98.0K 18s
+   900K .......... .......... .......... .......... .......... 28%  180K 18s
+   950K .......... .......... .......... .......... .......... 29%  101K 18s
+  1000K .......... .......... .......... .......... .......... 30%  143K 17s
+  1050K .......... .......... .......... .......... .......... 32%  178K 17s
+  1100K .......... .......... .......... .......... .......... 33% 90.6K 17s
+  1150K .......... .......... .......... .......... .......... 35%  147K 16s
+  1200K .......... .......... .......... .......... .......... 36% 95.1K 16s
+  1250K .......... .......... .......... .......... .......... 38%  184K 16s
+  1300K .......... .......... .......... .......... .......... 39%  101K 15s
+  1350K .......... .......... .......... .......... .......... 41%  158K 15s
+  1400K .......... .......... .......... .......... .......... 42% 96.5K 15s
+  1450K .......... .......... .......... .......... .......... 44%  185K 14s
+  1500K .......... .......... .......... .......... .......... 45%  156K 14s
+  1550K .......... .......... .......... .......... .......... 47% 94.2K 14s
+  1600K .......... .......... .......... .......... .......... 48% 92.1K 13s
+  1650K .......... .......... .......... .......... .......... 50%  187K 13s
+  1700K .......... .......... .......... .......... .......... 51% 97.8K 13s
+  1750K .......... .......... .......... .......... .......... 53%  143K 12s
+  1800K .......... .......... .......... .......... .......... 54%  178K 12s
+  1850K .......... .......... .......... .......... .......... 56%  102K 11s
+  1900K .......... .......... .......... .......... .......... 57%  185K 11s
+  1950K .......... .......... .......... .......... .......... 58% 95.4K 11s
+  2000K .......... .......... .......... .......... .......... 60% 96.5K 10s
+  2050K .......... .......... .......... .......... .......... 61%  183K 10s
+  2100K .......... .......... .......... .......... .......... 63%  102K 10s
+  2150K .......... .......... .......... .......... .......... 64%  184K 9s
+  2200K .......... .......... .......... .......... .......... 66% 91.6K 9s
+  2250K .......... .......... .......... .......... .......... 67%  175K 8s
+  2300K .......... .......... .......... .......... .......... 69%  166K 8s
+  2350K .......... .......... .......... .......... .......... 70% 95.7K 8s
+  2400K .......... .......... .......... .......... .......... 72% 97.0K 7s
+  2450K .......... .......... .......... .......... .......... 73%  183K 7s
+  2500K .......... .......... .......... .......... .......... 75% 87.9K 7s
+  2550K .......... .......... .......... .......... .......... 76%  173K 6s
+  2600K .......... .......... .......... .......... .......... 78%  166K 6s
+  2650K .......... .......... .......... .......... .......... 79% 87.3K 5s
+  2700K .......... .......... .......... .......... .......... 81%  182K 5s
+  2750K .......... .......... .......... .......... .......... 82% 90.0K 5s
+  2800K .......... .......... .......... .......... .......... 84%  153K 4s
+  2850K .......... .......... .......... .......... .......... 85% 96.2K 4s
+  2900K .......... .......... .......... .......... .......... 87%  184K 3s
+  2950K .......... .......... .......... .......... .......... 88%  102K 3s
+  3000K .......... .......... .......... .......... .......... 89%  174K 3s
+  3050K .......... .......... .......... .......... .......... 91% 94.1K 2s
+  3100K .......... .......... .......... .......... .......... 92%  183K 2s
+  3150K .......... .......... .......... .......... .......... 94% 98.1K 1s
+  3200K .......... .......... .......... .......... .......... 95%  156K 1s
+  3250K .......... .......... .......... .......... .......... 97%  138K 1s
+  3300K .......... .......... .......... .......... .......... 98% 92.3K 0s
+  3350K .......... .......... .......... ..........           100%  150K=27s
+
+2019-09-27 02:06:55 (127 KB/s) - ‘/home/lm/books/week110_渐行渐远的红利/渐行渐远的红利：寻找中国新平衡.epub’ saved [3471634/3471634]
+
+=> Download 渐行渐远的红利：寻找中国新平衡.epub success.
+=> Start download 渐行渐远的红利：寻找中国新平衡.mobi ...
+/home/lm/books/week110_渐行渐远的红利/渐行渐远的红利：寻找中国新平衡.mobi
+--2019-09-27 02:07:00--  https://ebooksplan.club/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B9%A6/week110_%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C%E7%9A%84%E7%BA%A2%E5%88%A9/%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C%E7%9A%84%E7%BA%A2%E5%88%A9%EF%BC%9A%E5%AF%BB%E6%89%BE%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%B9%B3%E8%A1%A1.mobi
+Resolving ebooksplan.club (ebooksplan.club)... 111.231.86.176
+Connecting to ebooksplan.club (ebooksplan.club)|111.231.86.176|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4873448 (4.6M) [application/octet-stream]
+Saving to: ‘/home/lm/books/week110_渐行渐远的红利/渐行渐远的红利：寻找中国新平衡.mobi’
+
+     0K .......... .......... .......... .......... ..........  1% 2.09M 2s
+    50K .......... .......... .......... .......... ..........  2% 2.27M 2s
+   100K .......... .......... .......... .......... ..........  3%  196K 9s
+   150K .......... .......... .......... .......... ..........  4% 96.1K 19s
+   200K .......... .......... .......... .......... ..........  5%  175K 20s
+   250K .......... .......... .......... .......... ..........  6% 96.5K 24s
+   300K .......... .......... .......... .......... ..........  7%  177K 24s
+   350K .......... .......... .......... .......... ..........  8% 93.2K 27s
+   400K .......... .......... .......... .......... ..........  9%  152K 27s
+   450K .......... .......... .......... .......... .......... 10% 99.6K 28s
+   500K .......... .......... .......... .......... .......... 11%  170K 27s
+   550K .......... .......... .......... .......... .......... 12% 99.0K 28s
+   600K .......... .......... .......... .......... .......... 13%  144K 28s
+   650K .......... .......... .......... .......... .......... 14%  168K 27s
+   700K .......... .......... .......... .......... .......... 15% 97.5K 28s
+   750K .......... .......... .......... .......... .......... 16% 99.5K 28s
+   800K .......... .......... .......... .......... .......... 17%  180K 28s
+   850K .......... .......... .......... .......... .......... 18% 92.5K 28s
+   900K .......... .......... .......... .......... .......... 19%  168K 27s
+   950K .......... .......... .......... .......... .......... 21% 88.5K 28s
+  1000K .......... .......... .......... .......... .......... 22%  181K 27s
+  1050K .......... .......... .......... .......... .......... 23% 93.0K 27s
+  1100K .......... .......... .......... .......... .......... 24%  185K 27s
+  1150K .......... .......... .......... .......... .......... 25% 82.1K 27s
+  1200K .......... .......... .......... .......... .......... 26%  158K 26s
+  1250K .......... .......... .......... .......... .......... 27%  157K 26s
+  1300K .......... .......... .......... .......... .......... 28% 97.5K 26s
+  1350K .......... .......... .......... .......... .......... 29% 91.2K 26s
+  1400K .......... .......... .......... .......... .......... 30%  170K 25s
+  1450K .......... .......... .......... .......... .......... 31% 97.3K 25s
+  1500K .......... .......... .......... .......... .......... 32%  173K 25s
+  1550K .......... .......... .......... .......... .......... 33% 90.4K 25s
+  1600K .......... .......... .......... .......... .......... 34%  174K 24s
+  1650K .......... .......... .......... .......... .......... 35% 94.6K 24s
+  1700K .......... .......... .......... .......... .......... 36%  172K 23s
+  1750K .......... .......... .......... .......... .......... 37% 97.5K 23s
+  1800K .......... .......... .......... .......... .......... 38%  155K 23s
+  1850K .......... .......... .......... .......... .......... 39% 99.4K 22s
+  1900K .......... .......... .......... .......... .......... 40%  160K 22s
+  1950K .......... .......... .......... .......... .......... 42% 90.4K 22s
+  2000K .......... .......... .......... .......... .......... 43% 94.2K 22s
+  2050K .......... .......... .......... .......... .......... 44%  184K 21s
+  2100K .......... .......... .......... .......... .......... 45% 95.2K 21s
+  2150K .......... .......... .......... .......... .......... 46%  143K 20s
+  2200K .......... .......... .......... .......... .......... 47%  183K 20s
+  2250K .......... .......... .......... .......... .......... 48% 89.3K 20s
+  2300K .......... .......... .......... .......... .......... 49%  153K 19s
+  2350K .......... .......... .......... .......... .......... 50% 97.0K 19s
+  2400K .......... .......... .......... .......... .......... 51%  162K 18s
+  2450K .......... .......... .......... .......... .......... 52% 97.2K 18s
+  2500K .......... .......... .......... .......... .......... 53%  156K 18s
+  2550K .......... .......... .......... .......... .......... 54%  187K 17s
+  2600K .......... .......... .......... .......... .......... 55% 94.0K 17s
+  2650K .......... .......... .......... .......... .......... 56%  181K 16s
+  2700K .......... .......... .......... .......... .......... 57% 93.9K 16s
+  2750K .......... .......... .......... .......... .......... 58% 90.9K 16s
+  2800K .......... .......... .......... .......... .......... 59%  167K 15s
+  2850K .......... .......... .......... .......... .......... 60%  181K 15s
+  2900K .......... .......... .......... .......... .......... 61% 84.8K 14s
+  2950K .......... .......... .......... .......... .......... 63%  183K 14s
+  3000K .......... .......... .......... .......... .......... 64%  101K 14s
+  3050K .......... .......... .......... .......... .......... 65%  159K 13s
+  3100K .......... .......... .......... .......... .......... 66%  184K 13s
+  3150K .......... .......... .......... .......... .......... 67% 90.3K 12s
+  3200K .......... .......... .......... .......... .......... 68%  138K 12s
+  3250K .......... .......... .......... .......... .......... 69% 91.5K 12s
+  3300K .......... .......... .......... .......... .......... 70%  163K 11s
+  3350K .......... .......... .......... .......... .......... 71%  103K 11s
+  3400K .......... .......... .......... .......... .......... 72%  166K 10s
+  3450K .......... .......... .......... .......... .......... 73%  158K 10s
+  3500K .......... .......... .......... .......... .......... 74% 95.2K 10s
+  3550K .......... .......... .......... .......... .......... 75%  148K 9s
+  3600K .......... .......... .......... .......... .......... 76%  100K 9s
+  3650K .......... .......... .......... .......... .......... 77%  158K 8s
+  3700K .......... .......... .......... .......... .......... 78%  102K 8s
+  3750K .......... .......... .......... .......... .......... 79%  180K 8s
+  3800K .......... .......... .......... .......... .......... 80% 93.7K 7s
+  3850K .......... .......... .......... .......... .......... 81%  181K 7s
+  3900K .......... .......... .......... .......... .......... 82% 99.0K 6s
+  3950K .......... .......... .......... .......... .......... 84% 88.6K 6s
+  4000K .......... .......... .......... .......... .......... 85%  185K 6s
+  4050K .......... .......... .......... .......... .......... 86% 95.0K 5s
+  4100K .......... .......... .......... .......... .......... 87%  187K 5s
+  4150K .......... .......... .......... .......... .......... 88%  160K 4s
+  4200K .......... .......... .......... .......... .......... 89% 93.1K 4s
+  4250K .......... .......... .......... .......... .......... 90%  171K 4s
+  4300K .......... .......... .......... .......... .......... 91%  158K 3s
+  4350K .......... .......... .......... .......... .......... 92% 88.1K 3s
+  4400K .......... .......... .......... .......... .......... 93% 97.0K 2s
+  4450K .......... .......... .......... .......... .......... 94%  174K 2s
+  4500K .......... .......... .......... .......... .......... 95%  103K 2s
+  4550K .......... .......... .......... .......... .......... 96%  170K 1s
+  4600K .......... .......... .......... .......... .......... 97%  160K 1s
+  4650K .......... .......... .......... .......... .......... 98% 89.6K 0s
+  4700K .......... .......... .......... .......... .......... 99%  171K 0s
+  4750K .........                                             100% 1.60M=38s
+
+2019-09-27 02:07:38 (125 KB/s) - ‘/home/lm/books/week110_渐行渐远的红利/渐行渐远的红利：寻找中国新平衡.mobi’ saved [4873448/4873448]
+
+=> Download 渐行渐远的红利：寻找中国新平衡.mobi success.
+
 => Dir weekly_books Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  7515    0  7515    0     0  56295      0 --:--:-- --:--:-- --:--:-- 56503
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  7515    0  7515    0     0  44825      0 --:--:-- --:--:-- --:--:-- 44732
 => Start download LICENSE ...
 /home/lm/books/weekly_books/LICENSE
 => LICENSE exist. Skip.
 
-=> Thu Sep 26 02:00:20 CST 2019. End sync book.
+=> Fri Sep 27 02:07:43 CST 2019. End sync book.
 
 
-=> Thu Sep 26 02:00:20 CST 2019. Start push to server.
+=> Fri Sep 27 02:07:43 CST 2019. Start push to server.
