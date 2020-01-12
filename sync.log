@@ -1,12 +1,12 @@
-=> Sun Jan 12 02:00:01 CST 2020. Change work dir.
+=> Mon Jan 13 02:00:01 CST 2020. Change work dir.
 
-=> Sun Jan 12 02:00:01 CST 2020. Start sync book.
+=> Mon Jan 13 02:00:01 CST 2020. Start sync book.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0=> Dir week01_字体故事 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11897    0 11897    0     0  76358      0 --:--:-- --:--:-- --:--:-- 76754
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11897    0 11897    0     0  70620      0 --:--:-- --:--:-- --:--:-- 70815
 => Start download 字体故事.azw3 ...
 /home/lm/books/week01_字体故事/字体故事.azw3
 => 字体故事.azw3 exist. Skip.
@@ -23,7 +23,8 @@
 => Dir week02_二手时间 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  111k    0  111k    0     0   220k      0 --:--:-- --:--:-- --:--:--  220k100 11901    0 11901    0     0  64182      0 --:--:-- --:--:-- --:--:-- 64329
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  143k    0  143k    0     0   185k      0 --:--:-- --:--:-- --:--:--  185k100  155k    0  155k    0     0   196k      0 --:--:-- --:--:-- --:--:--  196k
+100 11901    0 11901    0     0  31706      0 --:--:-- --:--:-- --:--:-- 31651100 11901    0 11901    0     0  31688      0 --:--:-- --:--:-- --:--:-- 31651
 => Start download 二手时间.azw3 ...
 /home/lm/books/week02_二手时间/二手时间.azw3
 => 二手时间.azw3 exist. Skip.
@@ -40,8 +41,7 @@
 => Dir week03_万万没想到 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  155k    0  155k    0     0   204k      0 --:--:-- --:--:-- --:--:--  204k
-100 13920    0 13920    0     0  83137      0 --:--:-- --:--:-- --:--:-- 83353
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13920    0 13920    0     0  84868      0 --:--:-- --:--:-- --:--:-- 85398
 => Start download 万万没想到-万维刚.azw3 ...
 /home/lm/books/week03_万万没想到/万万没想到-万维刚.azw3
 => 万万没想到-万维刚.azw3 exist. Skip.
@@ -61,7 +61,7 @@
 => Dir week04-最好的告别 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12013    0 12013    0     0  76263      0 --:--:-- --:--:-- --:--:-- 76515
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12013    0 12013    0     0  73294      0 --:--:-- --:--:-- --:--:-- 73699
 => Start download 最好的告别：关于衰老与死亡，你必须知道的常识.azw3 ...
 /home/lm/books/week04-最好的告别/最好的告别：关于衰老与死亡，你必须知道的常识.azw3
 => 最好的告别：关于衰老与死亡，你必须知道的常识.azw3 exist. Skip.
@@ -75,7 +75,7 @@
 => Dir week05_动物农场 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10904    0 10904    0     0  73384      0 --:--:-- --:--:-- --:--:-- 73675
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10904    0 10904    0     0  72105      0 --:--:-- --:--:-- --:--:-- 72211
 => Start download 动物农场(译文经典).azw3 ...
 /home/lm/books/week05_动物农场/动物农场(译文经典).azw3
 => 动物农场(译文经典).azw3 exist. Skip.
@@ -89,7 +89,7 @@
 => Dir week06_第三种猩猩 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10715    0 10715    0     0  75081      0 --:--:-- --:--:-- --:--:-- 74930
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10715    0 10715    0     0  73289      0 --:--:-- --:--:-- --:--:-- 73390
 => Start download 第三种黑猩猩.azw3 ...
 /home/lm/books/week06_第三种猩猩/第三种黑猩猩.azw3
 => 第三种黑猩猩.azw3 exist. Skip.
@@ -103,7 +103,7 @@
 => Dir week07_斯通纳(一个普通人的传记) Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10878    0 10878    0     0  73267      0 --:--:-- --:--:-- --:--:-- 73500
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10878    0 10878    0     0  75160      0 --:--:-- --:--:-- --:--:-- 75541
 => Start download 斯通纳.azw3 ...
 /home/lm/books/week07_斯通纳(一个普通人的传记)/斯通纳.azw3
 => 斯通纳.azw3 exist. Skip.
@@ -117,7 +117,7 @@
 => Dir week08_学会提问 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10499    0 10499    0     0  65599      0 --:--:-- --:--:-- --:--:-- 66031
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10499    0 10499    0     0  65984      0 --:--:-- --:--:-- --:--:-- 66449
 => Start download 学会提问.azw3 ...
 /home/lm/books/week08_学会提问/学会提问.azw3
 => 学会提问.azw3 exist. Skip.
@@ -131,7 +131,7 @@
 => Dir week09_中国人的气质 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12670    0 12670    0     0  77831      0 --:--:-- --:--:-- --:--:-- 78209
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12670    0 12670    0     0  79457      0 --:--:-- --:--:-- --:--:-- 79685
 => Start download [每周一书]《中国人的气质》换个角度看中国人.txt ...
 /home/lm/books/week09_中国人的气质/[每周一书]《中国人的气质》换个角度看中国人.txt
 => [每周一书]《中国人的气质》换个角度看中国人.txt exist. Skip.
@@ -148,7 +148,7 @@
 => Dir week10_写给大家看的设计书 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14327    0 14327    0     0  99582      0 --:--:-- --:--:-- --:--:--   97k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14327    0 14327    0     0  85529      0 --:--:-- --:--:-- --:--:-- 85790
 => Start download 写给大家看的设计书.azw3 ...
 /home/lm/books/week10_写给大家看的设计书/写给大家看的设计书.azw3
 => 写给大家看的设计书.azw3 exist. Skip.
@@ -168,7 +168,7 @@
 => Dir week11_稀缺 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10211    0 10211    0     0  74992      0 --:--:-- --:--:-- --:--:-- 75637
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10211    0 10211    0     0  63890      0 --:--:-- --:--:-- --:--:-- 64220
 => Start download 稀缺.azw3 ...
 /home/lm/books/week11_稀缺/稀缺.azw3
 => 稀缺.azw3 exist. Skip.
@@ -182,7 +182,7 @@
 => Dir week12_别处生活 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10493    0 10493    0     0  78255      0 --:--:-- --:--:-- --:--:-- 78894
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10493    0 10493    0     0  79039      0 --:--:-- --:--:-- --:--:-- 79492
 => Start download 别处生活.azw3 ...
 /home/lm/books/week12_别处生活/别处生活.azw3
 => 别处生活.azw3 exist. Skip.
@@ -196,7 +196,7 @@
 => Dir week13_一炮走红的国家 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12850    0 12850    0     0  70793      0 --:--:-- --:--:-- --:--:-- 70994
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12850    0 12850    0     0  80155      0 --:--:-- --:--:-- --:--:-- 80312
 => Start download [每周一书]《一炮走红的国家》钱还能去哪儿呢？.txt ...
 /home/lm/books/week13_一炮走红的国家/[每周一书]《一炮走红的国家》钱还能去哪儿呢？.txt
 => [每周一书]《一炮走红的国家》钱还能去哪儿呢？.txt exist. Skip.
@@ -213,7 +213,7 @@
 => Dir week14_无后为大 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12529    0 12529    0     0  83342      0 --:--:-- --:--:-- --:--:-- 83526
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12529    0 12529    0     0  82808      0 --:--:-- --:--:-- --:--:-- 82973
 => Start download [每周一书]《无后为大》不只是生与不生的问题.txt ...
 /home/lm/books/week14_无后为大/[每周一书]《无后为大》不只是生与不生的问题.txt
 => [每周一书]《无后为大》不只是生与不生的问题.txt exist. Skip.
@@ -230,7 +230,7 @@
 => Dir week15_那些古怪又让人忧心的问题 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13803    0 13803    0     0  90742      0 --:--:-- --:--:-- --:--:-- 91410
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13803    0 13803    0     0  82361      0 --:--:-- --:--:-- --:--:-- 82652
 => Start download Whatif：那些古怪又让人忧心的问题.azw3 ...
 /home/lm/books/week15_那些古怪又让人忧心的问题/Whatif：那些古怪又让人忧心的问题.azw3
 => Whatif：那些古怪又让人忧心的问题.azw3 exist. Skip.
@@ -247,7 +247,7 @@
 => Dir week16_与中国打交道 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13712    0 13712    0     0  98178      0 --:--:-- --:--:-- --:--:-- 98647
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13712    0 13712    0     0  85659      0 --:--:-- --:--:-- --:--:-- 86238
 => Start download pack.zip ...
 /home/lm/books/week16_与中国打交道/pack.zip
 => pack.zip exist. Skip.
@@ -267,7 +267,7 @@
 => Dir week17_黑旗 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10211    0 10211    0     0  67296      0 --:--:-- --:--:-- --:--:-- 67622
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10211    0 10211    0     0  75459      0 --:--:-- --:--:-- --:--:-- 75637
 => Start download 黑旗.azw3 ...
 /home/lm/books/week17_黑旗/黑旗.azw3
 => 黑旗.azw3 exist. Skip.
@@ -281,7 +281,7 @@
 => Dir week18_我们仨 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13550    0 13550    0     0  86228      0 --:--:-- --:--:-- --:--:-- 86858
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13550    0 13550    0     0  82952      0 --:--:-- --:--:-- --:--:-- 83128
 => Start download [每周一书]《我们仨》杨绛先生的生活回忆录.txt ...
 /home/lm/books/week18_我们仨/[每周一书]《我们仨》杨绛先生的生活回忆录.txt
 => [每周一书]《我们仨》杨绛先生的生活回忆录.txt exist. Skip.
@@ -301,7 +301,7 @@
 => Dir week19_怎么让大明变得透明 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11795    0 11795    0     0  75374      0 --:--:-- --:--:-- --:--:-- 75608
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11795    0 11795    0     0  74872      0 --:--:-- --:--:-- --:--:-- 75127
 => Start download 怎么让大明变得透明_马伯庸_开源书籍.epub ...
 /home/lm/books/week19_怎么让大明变得透明/怎么让大明变得透明_马伯庸_开源书籍.epub
 => 怎么让大明变得透明_马伯庸_开源书籍.epub exist. Skip.
@@ -315,7 +315,7 @@
 => Dir week20_美国种族简史 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12273    0 12273    0     0  76499      0 --:--:-- --:--:-- --:--:-- 76706
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12273    0 12273    0     0  82055      0 --:--:-- --:--:-- --:--:-- 82369
 => Start download 美国种族简史.azw3 ...
 /home/lm/books/week20_美国种族简史/美国种族简史.azw3
 => 美国种族简史.azw3 exist. Skip.
@@ -332,7 +332,7 @@
 => Dir week21_明智行动的艺术 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10916    0 10916    0     0  75689      0 --:--:-- --:--:-- --:--:-- 75805
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10916    0 10916    0     0  74521      0 --:--:-- --:--:-- --:--:-- 74767
 => Start download 明智行动的艺术.azw3 ...
 /home/lm/books/week21_明智行动的艺术/明智行动的艺术.azw3
 => 明智行动的艺术.azw3 exist. Skip.
@@ -346,7 +346,7 @@
 => Dir week22_这本书能让你睡得好 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11198    0 11198    0     0  72078      0 --:--:-- --:--:-- --:--:-- 71782
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11198    0 11198    0     0  85928      0 --:--:-- --:--:-- --:--:-- 85480
 => Start download 这本书能让你睡得好.azw3 ...
 /home/lm/books/week22_这本书能让你睡得好/这本书能让你睡得好.azw3
 => 这本书能让你睡得好.azw3 exist. Skip.
@@ -360,7 +360,7 @@
 => Dir week23-只是为了好玩 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12194    0 12194    0     0  77598      0 --:--:-- --:--:-- --:--:-- 78166
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12194    0 12194    0     0  92888      0 --:--:-- --:--:-- --:--:-- 93083
 => Start download week24_疾病的隐喻 ...
 /home/lm/books/week23-只是为了好玩/week24_疾病的隐喻
 => week24_疾病的隐喻 exist. Skip.
@@ -377,7 +377,7 @@
 => Dir week24_疾病的隐喻 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10640    0 10640    0     0  68752      0 --:--:-- --:--:-- --:--:-- 69090
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10640    0 10640    0     0  71585      0 --:--:-- --:--:-- --:--:-- 71891
 => Start download 疾病的隐喻.azw3 ...
 /home/lm/books/week24_疾病的隐喻/疾病的隐喻.azw3
 => 疾病的隐喻.azw3 exist. Skip.
@@ -391,7 +391,7 @@
 => Dir week25_大集市与教堂 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12697    0 12697    0     0  78009      0 --:--:-- --:--:-- --:--:-- 78376
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12697    0 12697    0     0  91099      0 --:--:-- --:--:-- --:--:-- 91345
 => Start download [每周一书]《大教堂与集市》开源运动的独立宣言.txt ...
 /home/lm/books/week25_大集市与教堂/[每周一书]《大教堂与集市》开源运动的独立宣言.txt
 => [每周一书]《大教堂与集市》开源运动的独立宣言.txt exist. Skip.
@@ -408,7 +408,7 @@
 => Dir week26_癌症·真相：医生也在读 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11433    0 11433    0     0  86567      0 --:--:-- --:--:-- --:--:-- 87274
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11433    0 11433    0     0  75111      0 --:--:-- --:--:-- --:--:-- 75217
 => Start download 癌症·真相：医生也在读.azw3 ...
 /home/lm/books/week26_癌症·真相：医生也在读/癌症·真相：医生也在读.azw3
 => 癌症·真相：医生也在读.azw3 exist. Skip.
@@ -422,7 +422,7 @@
 => Dir week27_我与地坛 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12298    0 12298    0     0  88941      0 --:--:-- --:--:-- --:--:-- 88474
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12298    0 12298    0     0  77184      0 --:--:-- --:--:-- --:--:-- 76862
 => Start download [每周一书]《我与地坛》从绝望中寻求希望.txt ...
 /home/lm/books/week27_我与地坛/[每周一书]《我与地坛》从绝望中寻求希望.txt
 => [每周一书]《我与地坛》从绝望中寻求希望.txt exist. Skip.
@@ -439,7 +439,7 @@
 => Dir week28_大路 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12865    0 12865    0     0  85438      0 --:--:-- --:--:-- --:--:-- 85766
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12865    0 12865    0     0  99105      0 --:--:-- --:--:-- --:--:-- 99728
 => Start download [每周一书]《大路》高速中国里的工地纪事.txt ...
 /home/lm/books/week28_大路/[每周一书]《大路》高速中国里的工地纪事.txt
 => [每周一书]《大路》高速中国里的工地纪事.txt exist. Skip.
@@ -456,7 +456,7 @@
 => Dir week29_论可能生活 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13994    0 13994    0     0  83400      0 --:--:-- --:--:-- --:--:-- 83796
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13994    0 13994    0     0  88867      0 --:--:-- --:--:-- --:--:-- 89133
 => Start download [每周一书]《论可能生活》从伦理学读生活的意义.txt ...
 /home/lm/books/week29_论可能生活/[每周一书]《论可能生活》从伦理学读生活的意义.txt
 => [每周一书]《论可能生活》从伦理学读生活的意义.txt exist. Skip.
@@ -476,7 +476,7 @@
 => Dir week30_十杆枪 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15446    0 15446    0     0    97k      0 --:--:-- --:--:-- --:--:--   97k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15446    0 15446    0     0  95485      0 --:--:-- --:--:-- --:--:-- 95937
 => Start download 十杆枪：从独立战争到西部拓荒的美国勇敢冒险史.azw3 ...
 /home/lm/books/week30_十杆枪/十杆枪：从独立战争到西部拓荒的美国勇敢冒险史.azw3
 => 十杆枪：从独立战争到西部拓荒的美国勇敢冒险史.azw3 exist. Skip.
@@ -496,7 +496,7 @@
 => Dir week31_简洁的力量 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10670    0 10670    0     0  68620      0 --:--:-- --:--:-- --:--:-- 68838
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10670    0 10670    0     0  68217      0 --:--:-- --:--:-- --:--:-- 68397
 => Start download 简洁的力量.azw3 ...
 /home/lm/books/week31_简洁的力量/简洁的力量.azw3
 => 简洁的力量.azw3 exist. Skip.
@@ -510,7 +510,7 @@
 => Dir week32_硅谷百年史 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13096    0 13096    0     0    98k      0 --:--:-- --:--:-- --:--:--   98k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13096    0 13096    0     0  82484      0 --:--:-- --:--:-- --:--:-- 82364
 => Start download cover.jpg ...
 /home/lm/books/week32_硅谷百年史/cover.jpg
 => cover.jpg exist. Skip.
@@ -527,7 +527,7 @@
 => Dir week33_增长黑客 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13733    0 13733    0     0  86940      0 --:--:-- --:--:-- --:--:-- 87471
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13733    0 13733    0     0    99k      0 --:--:-- --:--:-- --:--:--  100k
 => Start download [每周一书]《增长黑客》如何不花钱运营产品.txt ...
 /home/lm/books/week33_增长黑客/[每周一书]《增长黑客》如何不花钱运营产品.txt
 => [每周一书]《增长黑客》如何不花钱运营产品.txt exist. Skip.
@@ -547,7 +547,7 @@
 => Dir week34_向前一步 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14157    0 14157    0     0    98k      0 --:--:-- --:--:-- --:--:--   98k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14157    0 14157    0     0   103k      0 --:--:-- --:--:-- --:--:--  103k
 => Start download [每周一书]《向前一步》女性，工作及领导意志.txt ...
 /home/lm/books/week34_向前一步/[每周一书]《向前一步》女性，工作及领导意志.txt
 => [每周一书]《向前一步》女性，工作及领导意志.txt exist. Skip.
@@ -567,7 +567,7 @@
 => Dir week35_为何家会伤人 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14171    0 14171    0     0  89899      0 --:--:-- --:--:-- --:--:-- 90261
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14171    0 14171    0     0  91487      0 --:--:-- --:--:-- --:--:-- 92019
 => Start download [每周一书]《为何家会伤人》带你重新认识家庭.txt ...
 /home/lm/books/week35_为何家会伤人/[每周一书]《为何家会伤人》带你重新认识家庭.txt
 => [每周一书]《为何家会伤人》带你重新认识家庭.txt exist. Skip.
@@ -587,7 +587,7 @@
 => Dir week36_别逗了，费曼先生 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14597    0 14597    0     0  91652      0 --:--:-- --:--:-- --:--:-- 91805
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14597    0 14597    0     0   100k      0 --:--:-- --:--:-- --:--:--  100k
 => Start download [每周一书]《别逗了，费曼先生》科学顽童的故事.txt ...
 /home/lm/books/week36_别逗了，费曼先生/[每周一书]《别逗了，费曼先生》科学顽童的故事.txt
 => [每周一书]《别逗了，费曼先生》科学顽童的故事.txt exist. Skip.
@@ -607,7 +607,7 @@
 => Dir week37_如何阅读一本书 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12455    0 12455    0     0  94093      0 --:--:-- --:--:-- --:--:-- 93646
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12455    0 12455    0     0  78788      0 --:--:-- --:--:-- --:--:-- 79331
 => Start download 如何阅读一本书.azw3 ...
 /home/lm/books/week37_如何阅读一本书/如何阅读一本书.azw3
 => 如何阅读一本书.azw3 exist. Skip.
@@ -624,7 +624,7 @@
 => Dir week38_身份的焦虑 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13979    0 13979    0     0  89021      0 --:--:-- --:--:-- --:--:-- 89608
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13979    0 13979    0     0  85720      0 --:--:-- --:--:-- --:--:-- 86290
 => Start download [每周一书]《身份的焦虑》为什么渴望他人的认同.txt ...
 /home/lm/books/week38_身份的焦虑/[每周一书]《身份的焦虑》为什么渴望他人的认同.txt
 => [每周一书]《身份的焦虑》为什么渴望他人的认同.txt exist. Skip.
@@ -644,7 +644,7 @@
 => Dir week39_情种起源：浪漫爱情的本质和化学 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12407    0 12407    0     0  74535      0 --:--:-- --:--:-- --:--:-- 74740
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12407    0 12407    0     0  96392      0 --:--:-- --:--:-- --:--:-- 96929
 => Start download 情种起源：浪漫爱情的本质和化学-海伦·费舍尔.epub ...
 /home/lm/books/week39_情种起源：浪漫爱情的本质和化学/情种起源：浪漫爱情的本质和化学-海伦·费舍尔.epub
 => 情种起源：浪漫爱情的本质和化学-海伦·费舍尔.epub exist. Skip.
@@ -658,7 +658,7 @@
 => Dir week40_你会杀死那个胖子吗？ Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13201    0 13201    0     0  84993      0 --:--:-- --:--:-- --:--:-- 85167
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13201    0 13201    0     0  86115      0 --:--:-- --:--:-- --:--:-- 86281
 => Start download [每周一书]哲学谜题《你会杀死那个胖子吗》.txt ...
 /home/lm/books/week40_你会杀死那个胖子吗？/[每周一书]哲学谜题《你会杀死那个胖子吗》.txt
 => [每周一书]哲学谜题《你会杀死那个胖子吗》.txt exist. Skip.
@@ -675,7 +675,7 @@
 => Dir week41_跟老齐学Python Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13529    0 13529    0     0  93668      0 --:--:-- --:--:-- --:--:-- 93951
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13529    0 13529    0     0  85745      0 --:--:-- --:--:-- --:--:-- 86171
 => Start download 跟老齐学Python.azw3 ...
 /home/lm/books/week41_跟老齐学Python/跟老齐学Python.azw3
 => 跟老齐学Python.azw3 exist. Skip.
@@ -695,7 +695,7 @@
 => Dir week42_金钱不能买什么 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12856    0 12856    0     0  91704      0 --:--:-- --:--:-- --:--:-- 91177
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12856    0 12856    0     0  88005      0 --:--:-- --:--:-- --:--:-- 88662
 => Start download [每周一书]《金钱不能买什么》市场与道德的冲突.txt ...
 /home/lm/books/week42_金钱不能买什么/[每周一书]《金钱不能买什么》市场与道德的冲突.txt
 => [每周一书]《金钱不能买什么》市场与道德的冲突.txt exist. Skip.
@@ -712,7 +712,7 @@
 => Dir week43_欲罢不能：刷屏时代如何摆脱行为上瘾 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13880    0 13880    0     0  84711      0 --:--:-- --:--:-- --:--:-- 85153
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13880    0 13880    0     0  83937      0 --:--:-- --:--:-- --:--:-- 84121
 => Start download cover.jpg ...
 /home/lm/books/week43_欲罢不能：刷屏时代如何摆脱行为上瘾/cover.jpg
 => cover.jpg exist. Skip.
@@ -729,7 +729,7 @@
 => Dir week44_美妙的新世界 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12724    0 12724    0     0  78987      0 --:--:-- --:--:-- --:--:-- 79525
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12724    0 12724    0     0  94468      0 --:--:-- --:--:-- --:--:-- 94955
 => Start download [每周一书]《美妙的新世界》机械文明下的未来社会.txt ...
 /home/lm/books/week44_美妙的新世界/[每周一书]《美妙的新世界》机械文明下的未来社会.txt
 => [每周一书]《美妙的新世界》机械文明下的未来社会.txt exist. Skip.
@@ -746,7 +746,7 @@
 => Dir week45_重新发现宋朝 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12625    0 12625    0     0  89541      0 --:--:-- --:--:-- --:--:-- 90178
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12625    0 12625    0     0  76947      0 --:--:-- --:--:-- --:--:-- 77453
 => Start download [每周一书]从历史细节中《重新发现宋朝》.txt ...
 /home/lm/books/week45_重新发现宋朝/[每周一书]从历史细节中《重新发现宋朝》.txt
 => [每周一书]从历史细节中《重新发现宋朝》.txt exist. Skip.
@@ -763,7 +763,7 @@
 => Dir week46_无压工作的艺术 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13110    0 13110    0     0  88317      0 --:--:-- --:--:-- --:--:-- 88581
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13110    0 13110    0     0  82067      0 --:--:-- --:--:-- --:--:-- 82452
 => Start download [每周一书]提高效率《搞定I：无压工作的艺术》.txt ...
 /home/lm/books/week46_无压工作的艺术/[每周一书]提高效率《搞定I：无压工作的艺术》.txt
 => [每周一书]提高效率《搞定I：无压工作的艺术》.txt exist. Skip.
@@ -780,7 +780,7 @@
 => Dir week47_双螺旋（插图注释版） Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14634    0 14634    0     0  95517      0 --:--:-- --:--:-- --:--:-- 95025
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14634    0 14634    0     0  96652      0 --:--:-- --:--:-- --:--:-- 96913
 => Start download 【每周一书】双螺旋（插图注释本）.txt ...
 /home/lm/books/week47_双螺旋（插图注释版）/【每周一书】双螺旋（插图注释本）.txt
 => 【每周一书】双螺旋（插图注释本）.txt exist. Skip.
@@ -800,7 +800,7 @@
 => Dir week48_我遇见了人类 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11238    0 11238    0     0  78101      0 --:--:-- --:--:-- --:--:-- 78587
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11238    0 11238    0     0  75702      0 --:--:-- --:--:-- --:--:-- 75932
 => Start download 我遇见了人类(附人类指南).azw3 ...
 /home/lm/books/week48_我遇见了人类/我遇见了人类(附人类指南).azw3
 => 我遇见了人类(附人类指南).azw3 exist. Skip.
@@ -814,7 +814,7 @@
 => Dir week49_窄门(安德烈·纪德) Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12677    0 12677    0     0  79727      0 --:--:-- --:--:-- --:--:-- 80234
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12677    0 12677    0     0  89353      0 --:--:-- --:--:-- --:--:-- 89907
 => Start download 窄门-安德烈·纪德.epub ...
 /home/lm/books/week49_窄门(安德烈·纪德)/窄门-安德烈·纪德.epub
 => 窄门-安德烈·纪德.epub exist. Skip.
@@ -831,7 +831,7 @@
 => Dir week50_复杂经济学：经济思想的新框架 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13759    0 13759    0     0  84968      0 --:--:-- --:--:-- --:--:-- 85459
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13759    0 13759    0     0  99182      0 --:--:-- --:--:-- --:--:-- 99702
 => Start download 复杂经济学：经济思想的新框架.azw3 ...
 /home/lm/books/week50_复杂经济学：经济思想的新框架/复杂经济学：经济思想的新框架.azw3
 => 复杂经济学：经济思想的新框架.azw3 exist. Skip.
@@ -848,7 +848,7 @@
 => Dir week51_规模：复杂世界的简单法则 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11621    0 11621    0     0  74071      0 --:--:-- --:--:-- --:--:-- 74493
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11621    0 11621    0     0  71888      0 --:--:-- --:--:-- --:--:-- 72180
 => Start download 规模：复杂世界的简单法则.azw3 ...
 /home/lm/books/week51_规模：复杂世界的简单法则/规模：复杂世界的简单法则.azw3
 => 规模：复杂世界的简单法则.azw3 exist. Skip.
@@ -862,7 +862,7 @@
 => Dir week52_物质的秘密：藏在微观粒子里的神奇世界 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12473    0 12473    0     0  82627      0 --:--:-- --:--:-- --:--:-- 82602
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12473    0 12473    0     0  79837      0 --:--:-- --:--:-- --:--:-- 79955
 => Start download 物质的秘密：藏在微观粒子里的神奇世界.azw3 ...
 /home/lm/books/week52_物质的秘密：藏在微观粒子里的神奇世界/物质的秘密：藏在微观粒子里的神奇世界.azw3
 => 物质的秘密：藏在微观粒子里的神奇世界.azw3 exist. Skip.
@@ -876,7 +876,7 @@
 => Dir week53_幸福之路 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10684    0 10684    0     0  71576      0 --:--:-- --:--:-- --:--:-- 71704
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10684    0 10684    0     0  72829      0 --:--:-- --:--:-- --:--:-- 72680
 => Start download 幸福之路罗素.epub ...
 /home/lm/books/week53_幸福之路/幸福之路罗素.epub
 => 幸福之路罗素.epub exist. Skip.
@@ -890,7 +890,7 @@
 => Dir week54_扫地出门：美国城市的贫穷与暴利 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12046    0 12046    0     0  74020      0 --:--:-- --:--:-- --:--:-- 74358
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12046    0 12046    0     0  80453      0 --:--:-- --:--:-- --:--:-- 80845
 => Start download 扫地出门：美国城市的贫穷与暴利.azw3 ...
 /home/lm/books/week54_扫地出门：美国城市的贫穷与暴利/扫地出门：美国城市的贫穷与暴利.azw3
 => 扫地出门：美国城市的贫穷与暴利.azw3 exist. Skip.
@@ -904,7 +904,7 @@
 => Dir week55_沐猿而冠 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10499    0 10499    0     0  67423      0 --:--:-- --:--:-- --:--:-- 67735
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10499    0 10499    0     0  84990      0 --:--:-- --:--:-- --:--:-- 85357
 => Start download 沐猿而冠.azw3 ...
 /home/lm/books/week55_沐猿而冠/沐猿而冠.azw3
 => 沐猿而冠.azw3 exist. Skip.
@@ -918,7 +918,7 @@
 => Dir week56_情人 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10901    0 10901    0     0  67634      0 --:--:-- --:--:-- --:--:-- 68131
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10901    0 10901    0     0  61787      0 --:--:-- --:--:-- --:--:-- 61937
 => Start download 情人-玛格丽特·杜拉斯.epub ...
 /home/lm/books/week56_情人/情人-玛格丽特·杜拉斯.epub
 => 情人-玛格丽特·杜拉斯.epub exist. Skip.
@@ -932,7 +932,7 @@
 => Dir week57_圣殿春秋 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12615    0 12615    0     0  84864      0 --:--:-- --:--:-- --:--:-- 84664
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12615    0 12615    0     0  77670      0 --:--:-- --:--:-- --:--:-- 77870
 => Start download 《圣殿春秋》肯·福莱特.epub ...
 /home/lm/books/week57_圣殿春秋/《圣殿春秋》肯·福莱特.epub
 => 《圣殿春秋》肯·福莱特.epub exist. Skip.
@@ -949,7 +949,7 @@
 => Dir week58_韭菜的自我修养 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12461    0 12461    0     0  95468      0 --:--:-- --:--:-- --:--:-- 95853
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12461    0 12461    0     0  87494      0 --:--:-- --:--:-- --:--:-- 87139
 => Start download 韭菜的自我修养.azw3 ...
 /home/lm/books/week58_韭菜的自我修养/韭菜的自我修养.azw3
 => 韭菜的自我修养.azw3 exist. Skip.
@@ -966,7 +966,7 @@
 => Dir week59_性与性格 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11899    0 11899    0     0  72960      0 --:--:-- --:--:-- --:--:-- 73450
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11899    0 11899    0     0  74783      0 --:--:-- --:--:-- --:--:-- 75310
 => Start download 性与性格.azw3 ...
 /home/lm/books/week59_性与性格/性与性格.azw3
 => 性与性格.azw3 exist. Skip.
@@ -983,7 +983,7 @@
 => Dir week60_投资中最简单事 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12941    0 12941    0     0  79426      0 --:--:-- --:--:-- --:--:-- 79882
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12941    0 12941    0     0  99377      0 --:--:-- --:--:-- --:--:-- 99546
 => Start download [每周一书]从本质出发教你《投资中最简单的事》.txt ...
 /home/lm/books/week60_投资中最简单事/[每周一书]从本质出发教你《投资中最简单的事》.txt
 => [每周一书]从本质出发教你《投资中最简单的事》.txt exist. Skip.
@@ -1000,7 +1000,7 @@
 => Dir week61_谈修养 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13523    0 13523    0     0  84916      0 --:--:-- --:--:-- --:--:-- 85050
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13523    0 13523    0     0  81477      0 --:--:-- --:--:-- --:--:-- 81957
 => Start download [每周一书]《谈修养》写给青年人的珠玑之言.txt ...
 /home/lm/books/week61_谈修养/[每周一书]《谈修养》写给青年人的珠玑之言.txt
 => [每周一书]《谈修养》写给青年人的珠玑之言.txt exist. Skip.
@@ -1020,7 +1020,7 @@
 => Dir week62_独裁者手册 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12482    0 12482    0     0  78420      0 --:--:-- --:--:-- --:--:-- 78503
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12482    0 12482    0     0  81972      0 --:--:-- --:--:-- --:--:-- 82118
 => Start download [每周一书]《独裁者手册》带你真正理解政治.txt ...
 /home/lm/books/week62_独裁者手册/[每周一书]《独裁者手册》带你真正理解政治.txt
 => [每周一书]《独裁者手册》带你真正理解政治.txt exist. Skip.
@@ -1037,7 +1037,7 @@
 => Dir week63-天空的另一半 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10779    0 10779    0     0  76674      0 --:--:-- --:--:-- --:--:-- 76992
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10779    0 10779    0     0  68169      0 --:--:-- --:--:-- --:--:-- 68221
 => Start download 天空的另一半.azw3 ...
 /home/lm/books/week63-天空的另一半/天空的另一半.azw3
 => 天空的另一半.azw3 exist. Skip.
@@ -1051,7 +1051,7 @@
 => Dir week64_自由选择 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11792    0 11792    0     0  87628      0 --:--:-- --:--:-- --:--:-- 88000
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11792    0 11792    0     0  74873      0 --:--:-- --:--:-- --:--:-- 75108
 => Start download en ...
 /home/lm/books/week64_自由选择/en
 => en exist. Skip.
@@ -1068,7 +1068,7 @@
 => Dir week65_零售的哲学 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12407    0 12407    0     0  85301      0 --:--:-- --:--:-- --:--:-- 85565
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12407    0 12407    0     0  78971      0 --:--:-- --:--:-- --:--:-- 79532
 => Start download [每周一书]7-Eleven便利店《零售的哲学》.txt ...
 /home/lm/books/week65_零售的哲学/[每周一书]7-Eleven便利店《零售的哲学》.txt
 => [每周一书]7-Eleven便利店《零售的哲学》.txt exist. Skip.
@@ -1085,7 +1085,7 @@
 => Dir week66_查令十字街84号 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12592    0 12592    0     0  79496      0 --:--:-- --:--:-- --:--:-- 79696
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12592    0 12592    0     0  94802      0 --:--:-- --:--:-- --:--:-- 95393
 => Start download [每周一书]《查令十字街84号》.txt ...
 /home/lm/books/week66_查令十字街84号/[每周一书]《查令十字街84号》.txt
 => [每周一书]《查令十字街84号》.txt exist. Skip.
@@ -1102,7 +1102,7 @@
 => Dir week67_平面国 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12163    0 12163    0     0  75173      0 --:--:-- --:--:-- --:--:-- 75546
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12163    0 12163    0     0  85113      0 --:--:-- --:--:-- --:--:-- 85654
 => Start download [每周一书]《平面国》一个多维的传奇故事.txt ...
 /home/lm/books/week67_平面国/[每周一书]《平面国》一个多维的传奇故事.txt
 => [每周一书]《平面国》一个多维的传奇故事.txt exist. Skip.
@@ -1119,7 +1119,7 @@
 => Dir week68_数学女孩 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10508    0 10508    0     0  70914      0 --:--:-- --:--:-- --:--:-- 71000
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10508    0 10508    0     0  66540      0 --:--:-- --:--:-- --:--:-- 66506
 => Start download 数学女孩1.azw3 ...
 /home/lm/books/week68_数学女孩/数学女孩1.azw3
 => 数学女孩1.azw3 exist. Skip.
@@ -1133,7 +1133,7 @@
 => Dir week69_自卑与超越 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12455    0 12455    0     0  94343      0 --:--:-- --:--:-- --:--:-- 95076
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12455    0 12455    0     0  81695      0 --:--:-- --:--:-- --:--:-- 81940
 => Start download [每周一书]《自卑与超越》生命的真正意义.txt ...
 /home/lm/books/week69_自卑与超越/[每周一书]《自卑与超越》生命的真正意义.txt
 => [每周一书]《自卑与超越》生命的真正意义.txt exist. Skip.
@@ -1150,12 +1150,12 @@
 => Dir week70_gitpro_ Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  6279    0  6279    0     0  42506      0 --:--:-- --:--:-- --:--:-- 42714
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  6279    0  6279    0     0  40078      0 --:--:-- --:--:-- --:--:-- 40250
 
 => Dir week71_概率的烦恼：量子贝叶斯拯救薛定谔的猫 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15961    0 15961    0     0   106k      0 --:--:-- --:--:-- --:--:--  106k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15961    0 15961    0     0   116k      0 --:--:-- --:--:-- --:--:--  117k
 => Start download week98_海浪 ...
 /home/lm/books/week71_概率的烦恼：量子贝叶斯拯救薛定谔的猫/week98_海浪
 => week98_海浪 exist. Skip.
@@ -1175,7 +1175,7 @@
 => Dir week72_计算机进化史 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11282    0 11282    0     0  75250      0 --:--:-- --:--:-- --:--:-- 75718
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11282    0 11282    0     0  81863      0 --:--:-- --:--:-- --:--:-- 82350
 => Start download 计算进化史_改变数学的命运.azw3 ...
 /home/lm/books/week72_计算机进化史/计算进化史_改变数学的命运.azw3
 => 计算进化史_改变数学的命运.azw3 exist. Skip.
@@ -1189,7 +1189,7 @@
 => Dir week73_中日恩怨两千年 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12303    0 12303    0     0  76718      0 --:--:-- --:--:-- --:--:-- 76416
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12303    0 12303    0     0  77841      0 --:--:-- --:--:-- --:--:-- 77867
 => Start download picture.jpg ...
 /home/lm/books/week73_中日恩怨两千年/picture.jpg
 => picture.jpg exist. Skip.
@@ -1206,7 +1206,7 @@
 => Dir week74_生育制度 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12679    0 12679    0     0  95742      0 --:--:-- --:--:-- --:--:-- 96053
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12679    0 12679    0     0  79969      0 --:--:-- --:--:-- --:--:-- 80246
 => Start download 乡土中国生育制度-费孝通.epub ...
 /home/lm/books/week74_生育制度/乡土中国生育制度-费孝通.epub
 => 乡土中国生育制度-费孝通.epub exist. Skip.
@@ -1223,7 +1223,7 @@
 => Dir week75_风格感觉21世纪写作指南 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11435    0 11435    0     0  87193      0 --:--:-- --:--:-- --:--:-- 87290
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11435    0 11435    0     0  73175      0 --:--:-- --:--:-- --:--:-- 73301
 => Start download 风格感觉21世纪写作指南.azw3 ...
 /home/lm/books/week75_风格感觉21世纪写作指南/风格感觉21世纪写作指南.azw3
 => 风格感觉21世纪写作指南.azw3 exist. Skip.
@@ -1237,7 +1237,7 @@
 => Dir week76_幸福的婚姻：男人与女人的长期相处之道 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12469    0 12469    0     0  84931      0 --:--:-- --:--:-- --:--:-- 85404
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12469    0 12469    0     0  91168      0 --:--:-- --:--:-- --:--:-- 91683
 => Start download 幸福的婚姻：男人与女人的长期相处之道.azw3 ...
 /home/lm/books/week76_幸福的婚姻：男人与女人的长期相处之道/幸福的婚姻：男人与女人的长期相处之道.azw3
 => 幸福的婚姻：男人与女人的长期相处之道.azw3 exist. Skip.
@@ -1251,7 +1251,7 @@
 => Dir week77_致命的自负：社会主义的谬误 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11621    0 11621    0     0  73831      0 --:--:-- --:--:-- --:--:-- 74019
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11621    0 11621    0     0  90678      0 --:--:-- --:--:-- --:--:-- 90789
 => Start download （英）哈耶克-致命的自负.epub ...
 /home/lm/books/week77_致命的自负：社会主义的谬误/（英）哈耶克-致命的自负.epub
 => （英）哈耶克-致命的自负.epub exist. Skip.
@@ -1265,7 +1265,7 @@
 => Dir week78_病隙碎笔：坚忍写作的生命笔记 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11093    0 11093    0     0  74433      0 --:--:-- --:--:-- --:--:-- 74449
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11093    0 11093    0     0  78214      0 --:--:-- --:--:-- --:--:-- 78673
 => Start download 病隙碎笔.epub ...
 /home/lm/books/week78_病隙碎笔：坚忍写作的生命笔记/病隙碎笔.epub
 => 病隙碎笔.epub exist. Skip.
@@ -1279,7 +1279,7 @@
 => Dir week79_独生：中国最激进的实验 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  8073    0  8073    0     0  53535      0 --:--:-- --:--:-- --:--:-- 53820
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  8073    0  8073    0     0  62544      0 --:--:-- --:--:-- --:--:-- 62581
 => Start download 独生——中国最激进的实验.pdf ...
 /home/lm/books/week79_独生：中国最激进的实验/独生——中国最激进的实验.pdf
 => 独生——中国最激进的实验.pdf exist. Skip.
@@ -1287,7 +1287,7 @@
 => Dir week80_搞定I：无压工作的艺术 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11368    0 11368    0     0  87580      0 --:--:-- --:--:-- --:--:-- 88124
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11368    0 11368    0     0  71290      0 --:--:-- --:--:-- --:--:-- 71496
 => Start download 搞定I：无压工作的艺术.azw3 ...
 /home/lm/books/week80_搞定I：无压工作的艺术/搞定I：无压工作的艺术.azw3
 => 搞定I：无压工作的艺术.azw3 exist. Skip.
@@ -1301,7 +1301,7 @@
 => Dir week81_独裁者手册 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12482    0 12482    0     0  81771      0 --:--:-- --:--:-- --:--:-- 82118
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12482    0 12482    0     0  83338      0 --:--:-- --:--:-- --:--:-- 83771
 => Start download [每周一书]《独裁者手册》带你真正理解政治.txt ...
 /home/lm/books/week81_独裁者手册/[每周一书]《独裁者手册》带你真正理解政治.txt
 => [每周一书]《独裁者手册》带你真正理解政治.txt exist. Skip.
@@ -1318,7 +1318,7 @@
 => Dir week82_黑客与画家 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12484    0 12484    0     0  90717      0 --:--:-- --:--:-- --:--:-- 91124
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12484    0 12484    0     0  89761      0 --:--:-- --:--:-- --:--:-- 90463
 => Start download [每周一书]《黑客与画家》改变世界的程序员.txt ...
 /home/lm/books/week82_黑客与画家/[每周一书]《黑客与画家》改变世界的程序员.txt
 => [每周一书]《黑客与画家》改变世界的程序员.txt exist. Skip.
@@ -1335,7 +1335,7 @@
 => Dir week83_钓愚 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11953    0 11953    0     0  80289      0 --:--:-- --:--:-- --:--:-- 80763
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11953    0 11953    0     0  94920      0 --:--:-- --:--:-- --:--:-- 95624
 => Start download [每周一书]《钓愚》操纵与欺骗的经济学.txt ...
 /home/lm/books/week83_钓愚/[每周一书]《钓愚》操纵与欺骗的经济学.txt
 => [每周一书]《钓愚》操纵与欺骗的经济学.txt exist. Skip.
@@ -1352,7 +1352,7 @@
 => Dir week84_一网打尽 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10493    0 10493    0     0  70052      0 --:--:-- --:--:-- --:--:-- 69953
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10493    0 10493    0     0  68236      0 --:--:-- --:--:-- --:--:-- 68136
 => Start download 一网打尽.azw3 ...
 /home/lm/books/week84_一网打尽/一网打尽.azw3
 => 一网打尽.azw3 exist. Skip.
@@ -1366,7 +1366,7 @@
 => Dir week85_童年的消逝 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12538    0 12538    0     0  80456      0 --:--:-- --:--:-- --:--:-- 80890
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12538    0 12538    0     0  82513      0 --:--:-- --:--:-- --:--:-- 83033
 => Start download [每周一书]《童年的消逝》“小大人”现象的由来.txt ...
 /home/lm/books/week85_童年的消逝/[每周一书]《童年的消逝》“小大人”现象的由来.txt
 => [每周一书]《童年的消逝》“小大人”现象的由来.txt exist. Skip.
@@ -1383,7 +1383,7 @@
 => Dir week86_皮肤的秘密 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10634    0 10634    0     0  69741      0 --:--:-- --:--:-- --:--:-- 69960
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10634    0 10634    0     0  67851      0 --:--:-- --:--:-- --:--:-- 68166
 => Start download 皮肤的秘密.azw3 ...
 /home/lm/books/week86_皮肤的秘密/皮肤的秘密.azw3
 => 皮肤的秘密.azw3 exist. Skip.
@@ -1397,7 +1397,7 @@
 => Dir week87_我的天才女友 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10781    0 10781    0     0  73271      0 --:--:-- --:--:-- --:--:-- 73842
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10781    0 10781    0     0  68263      0 --:--:-- --:--:-- --:--:-- 68668
 => Start download 我的天才女友.azw3 ...
 /home/lm/books/week87_我的天才女友/我的天才女友.azw3
 => 我的天才女友.azw3 exist. Skip.
@@ -1411,7 +1411,7 @@
 => Dir week88_新闻的骚动 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10634    0 10634    0     0  67774      0 --:--:-- --:--:-- --:--:-- 68166
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10634    0 10634    0     0  82709      0 --:--:-- --:--:-- --:--:-- 83078
 => Start download 新闻的骚动.azw3 ...
 /home/lm/books/week88_新闻的骚动/新闻的骚动.azw3
 => 新闻的骚动.azw3 exist. Skip.
@@ -1425,7 +1425,7 @@
 => Dir week89_皮囊 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10217    0 10217    0     0  68696      0 --:--:-- --:--:-- --:--:-- 68570
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10217    0 10217    0     0  71516      0 --:--:-- --:--:-- --:--:-- 71950
 => Start download 皮囊.azw3 ...
 /home/lm/books/week89_皮囊/皮囊.azw3
 => 皮囊.azw3 exist. Skip.
@@ -1439,7 +1439,7 @@
 => Dir week90_走进奇妙的元素周期表 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11339    0 11339    0     0  78624      0 --:--:-- --:--:-- --:--:-- 78743
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11339    0 11339    0     0  76947      0 --:--:-- --:--:-- --:--:-- 77136
 => Start download 走进奇妙的元素周期表.azw3 ...
 /home/lm/books/week90_走进奇妙的元素周期表/走进奇妙的元素周期表.azw3
 => 走进奇妙的元素周期表.azw3 exist. Skip.
@@ -1453,7 +1453,7 @@
 => Dir week91_瓦尔登湖 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10497    0 10497    0     0  70235      0 --:--:-- --:--:-- --:--:-- 70449
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10497    0 10497    0     0  70281      0 --:--:-- --:--:-- --:--:-- 70449
 => Start download 瓦尔登湖.azw3 ...
 /home/lm/books/week91_瓦尔登湖/瓦尔登湖.azw3
 => 瓦尔登湖.azw3 exist. Skip.
@@ -1467,7 +1467,7 @@
 => Dir week92_甲午两甲子 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10959    0 10959    0     0  80269      0 --:--:-- --:--:-- --:--:-- 80580
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10959    0 10959    0     0  70924      0 --:--:-- --:--:-- --:--:-- 71162
 => Start download 甲午两甲子：忆与思.azw3 ...
 /home/lm/books/week92_甲午两甲子/甲午两甲子：忆与思.azw3
 => 甲午两甲子：忆与思.azw3 exist. Skip.
@@ -1481,7 +1481,7 @@
 => Dir week93_切尔诺贝利的悲鸣 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11063    0 11063    0     0  72299      0 --:--:-- --:--:-- --:--:-- 72782
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11063    0 11063    0     0  74460      0 --:--:-- --:--:-- --:--:-- 74750
 => Start download 切尔诺贝利的悲鸣.azw3 ...
 /home/lm/books/week93_切尔诺贝利的悲鸣/切尔诺贝利的悲鸣.azw3
 => 切尔诺贝利的悲鸣.azw3 exist. Skip.
@@ -1495,7 +1495,7 @@
 => Dir week94_Linux入门很简单 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10798    0 10798    0     0  69632      0 --:--:-- --:--:-- --:--:-- 69664
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10798    0 10798    0     0  83561      0 --:--:-- --:--:-- --:--:-- 83705
 => Start download Linux入门很简单.azw3 ...
 /home/lm/books/week94_Linux入门很简单/Linux入门很简单.azw3
 => Linux入门很简单.azw3 exist. Skip.
@@ -1509,7 +1509,7 @@
 => Dir week95_改变心理学的40项研究 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11244    0 11244    0     0  73044      0 --:--:-- --:--:-- --:--:-- 73490
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11244    0 11244    0     0  70495      0 --:--:-- --:--:-- --:--:-- 70275
 => Start download 改变心理学的40项研究.azw3 ...
 /home/lm/books/week95_改变心理学的40项研究/改变心理学的40项研究.azw3
 => 改变心理学的40项研究.azw3 exist. Skip.
@@ -1523,7 +1523,7 @@
 => Dir week96_永不放弃：特朗普自述 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11339    0 11339    0     0  73396      0 --:--:-- --:--:-- --:--:-- 73629
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11339    0 11339    0     0  78805      0 --:--:-- --:--:-- --:--:-- 79293
 => Start download 永不放弃：特朗普自述.azw3 ...
 /home/lm/books/week96_永不放弃：特朗普自述/永不放弃：特朗普自述.azw3
 => 永不放弃：特朗普自述.azw3 exist. Skip.
@@ -1537,7 +1537,7 @@
 => Dir week97_喜宝 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10217    0 10217    0     0  73901      0 --:--:-- --:--:-- --:--:-- 74036
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10217    0 10217    0     0  70525      0 --:--:-- --:--:-- --:--:-- 70951
 => Start download 喜宝.azw3 ...
 /home/lm/books/week97_喜宝/喜宝.azw3
 => 喜宝.azw3 exist. Skip.
@@ -1551,7 +1551,7 @@
 => Dir week98_海浪 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12096    0 12096    0     0  76184      0 --:--:-- --:--:-- --:--:-- 76556
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12096    0 12096    0     0  79066      0 --:--:-- --:--:-- --:--:-- 79578
 => Start download photo_2019-06-3015.39.19.jpeg ...
 /home/lm/books/week98_海浪/photo_2019-06-3015.39.19.jpeg
 => photo_2019-06-3015.39.19.jpeg exist. Skip.
@@ -1568,7 +1568,7 @@
 => Dir week99_岛上书店 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10499    0 10499    0     0  84529      0 --:--:-- --:--:-- --:--:-- 84669
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10499    0 10499    0     0  80576      0 --:--:-- --:--:-- --:--:-- 80761
 => Start download 岛上书店.azw3 ...
 /home/lm/books/week99_岛上书店/岛上书店.azw3
 => 岛上书店.azw3 exist. Skip.
@@ -1582,7 +1582,7 @@
 => Dir week100_霍乱时期的爱情 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10924    0 10924    0     0  69617      0 --:--:-- --:--:-- --:--:-- 69579
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10924    0 10924    0     0  84299      0 --:--:-- --:--:-- --:--:-- 84682
 => Start download 霍乱时期的爱情.epub ...
 /home/lm/books/week100_霍乱时期的爱情/霍乱时期的爱情.epub
 => 霍乱时期的爱情.epub exist. Skip.
@@ -1596,7 +1596,7 @@
 => Dir week102_时代四部曲 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11128    0 11128    0     0  70222      0 --:--:-- --:--:-- --:--:-- 70430
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11128    0 11128    0     0  73529      0 --:--:-- --:--:-- --:--:-- 73695
 => Start download 王小波：时代四部曲系列.azw3 ...
 /home/lm/books/week102_时代四部曲/王小波：时代四部曲系列.azw3
 => 王小波：时代四部曲系列.azw3 exist. Skip.
@@ -1610,7 +1610,7 @@
 => Dir week103_所以，一切都是童年的错吗？ Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13328    0 13328    0     0  83346      0 --:--:-- --:--:-- --:--:-- 83823
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13328    0 13328    0     0  85156      0 --:--:-- --:--:-- --:--:-- 85435
 => Start download 2019-08-0611.21.34.jpg ...
 /home/lm/books/week103_所以，一切都是童年的错吗？/2019-08-0611.21.34.jpg
 => 2019-08-0611.21.34.jpg exist. Skip.
@@ -1627,7 +1627,7 @@
 => Dir week104_人间有味 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10501    0 10501    0     0  75822      0 --:--:-- --:--:-- --:--:-- 76094
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10501    0 10501    0     0  68771      0 --:--:-- --:--:-- --:--:-- 69085
 => Start download 人间有味.azw3 ...
 /home/lm/books/week104_人间有味/人间有味.azw3
 => 人间有味.azw3 exist. Skip.
@@ -1641,7 +1641,7 @@
 => Dir week105_春分之后 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10501    0 10501    0     0  65844      0 --:--:-- --:--:-- --:--:-- 66044
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10501    0 10501    0     0  72472      0 --:--:-- --:--:-- --:--:-- 72923
 => Start download 春分之后.azw3 ...
 /home/lm/books/week105_春分之后/春分之后.azw3
 => 春分之后.azw3 exist. Skip.
@@ -1655,7 +1655,7 @@
 => Dir week106_平均的终结：如何在崇尚标准化的世界中胜出 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12761    0 12761    0     0  89068      0 --:--:-- --:--:-- --:--:-- 88618
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12761    0 12761    0     0  86872      0 --:--:-- --:--:-- --:--:-- 87404
 => Start download 平均的终结：如何在崇尚标准化的世界中胜出.azw3 ...
 /home/lm/books/week106_平均的终结：如何在崇尚标准化的世界中胜出/平均的终结：如何在崇尚标准化的世界中胜出.azw3
 => 平均的终结：如何在崇尚标准化的世界中胜出.azw3 exist. Skip.
@@ -1669,7 +1669,7 @@
 => Dir week107_呐喊 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10867    0 10867    0     0  69064      0 --:--:-- --:--:-- --:--:-- 69216
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10867    0 10867    0     0  70266      0 --:--:-- --:--:-- --:--:-- 70109
 => Start download 鲁迅短篇小说集：呐喊.azw3 ...
 /home/lm/books/week107_呐喊/鲁迅短篇小说集：呐喊.azw3
 => 鲁迅短篇小说集：呐喊.azw3 exist. Skip.
@@ -1683,7 +1683,7 @@
 => Dir week108_过剩之地 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11311    0 11311    0     0  75189      0 --:--:-- --:--:-- --:--:-- 75406
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11311    0 11311    0     0  71794      0 --:--:-- --:--:-- --:--:-- 72044
 => Start download 过剩之地：美式富足与贫困悖论.azw3 ...
 /home/lm/books/week108_过剩之地/过剩之地：美式富足与贫困悖论.azw3
 => 过剩之地：美式富足与贫困悖论.azw3 exist. Skip.
@@ -1697,7 +1697,7 @@
 => Dir week109_人像摄影进行时 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11327    0 11327    0     0  88663      0 --:--:-- --:--:-- --:--:-- 89188
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11327    0 11327    0     0  73777      0 --:--:-- --:--:-- --:--:-- 74032
 => Start download 人像摄影进行时：完美构图.azw3 ...
 /home/lm/books/week109_人像摄影进行时/人像摄影进行时：完美构图.azw3
 => 人像摄影进行时：完美构图.azw3 exist. Skip.
@@ -1711,7 +1711,7 @@
 => Dir week110_渐行渐远的红利 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13057    0 13057    0     0  80697      0 --:--:-- --:--:-- --:--:-- 81099
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13057    0 13057    0     0  88432      0 --:--:-- --:--:-- --:--:-- 88823
 => Start download photo_2019-09-2414.08.23.jpeg ...
 /home/lm/books/week110_渐行渐远的红利/photo_2019-09-2414.08.23.jpeg
 => photo_2019-09-2414.08.23.jpeg exist. Skip.
@@ -1728,7 +1728,7 @@
 => Dir week111_六里庄遗事 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12104    0 12104    0     0  76687      0 --:--:-- --:--:-- --:--:-- 76607
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12104    0 12104    0     0  89758      0 --:--:-- --:--:-- --:--:-- 90328
 => Start download IMAGE2019-09-2810:46:01.jpg ...
 /home/lm/books/week111_六里庄遗事/IMAGE2019-09-2810:46:01.jpg
 => IMAGE2019-09-2810:46:01.jpg exist. Skip.
@@ -1745,7 +1745,7 @@
 => Dir week112_细雪 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11618    0 11618    0     0  74432      0 --:--:-- --:--:-- --:--:-- 74954
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11618    0 11618    0     0  87914      0 --:--:-- --:--:-- --:--:-- 87353
 => Start download photo_2019-10-0813.59.04.jpeg ...
 /home/lm/books/week112_细雪/photo_2019-10-0813.59.04.jpeg
 => photo_2019-10-0813.59.04.jpeg exist. Skip.
@@ -1762,7 +1762,7 @@
 => Dir week113_白天的房子，夜晚的房子 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14662    0 14662    0     0  88905      0 --:--:-- --:--:-- --:--:-- 89402
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14662    0 14662    0     0  88634      0 --:--:-- --:--:-- --:--:-- 88860
 => Start download cover.jpg ...
 /home/lm/books/week113_白天的房子，夜晚的房子/cover.jpg
 => cover.jpg exist. Skip.
@@ -1782,7 +1782,7 @@
 => Dir week114_心 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14000    0 14000    0     0   103k      0 --:--:-- --:--:-- --:--:--  104k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14000    0 14000    0     0  92487      0 --:--:-- --:--:-- --:--:-- 92715
 => Start download photo_2019-10-2116.59.28.jpeg ...
 /home/lm/books/week114_心/photo_2019-10-2116.59.28.jpeg
 => photo_2019-10-2116.59.28.jpeg exist. Skip.
@@ -1805,7 +1805,7 @@
 => Dir week115_俄国与拿破仑的决战 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 16796    0 16796    0     0   123k      0 --:--:-- --:--:-- --:--:--  124k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 16796    0 16796    0     0   105k      0 --:--:-- --:--:-- --:--:--  105k
 => Start download photo_2019-10-2910.45.03.jpeg ...
 /home/lm/books/week115_俄国与拿破仑的决战/photo_2019-10-2910.45.03.jpeg
 => photo_2019-10-2910.45.03.jpeg exist. Skip.
@@ -1828,7 +1828,7 @@
 => Dir week116_怪谈·奇谭 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14913    0 14913    0     0  79465      0 --:--:-- --:--:-- --:--:-- 79324
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14913    0 14913    0     0  97487      0 --:--:-- --:--:-- --:--:-- 98111
 => Start download photo_2019-11-0510.46.50.jpeg ...
 /home/lm/books/week116_怪谈·奇谭/photo_2019-11-0510.46.50.jpeg
 => photo_2019-11-0510.46.50.jpeg exist. Skip.
@@ -1851,7 +1851,7 @@
 => Dir week117_我的孤独是一座花园 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15993    0 15993    0     0   104k      0 --:--:-- --:--:-- --:--:--  104k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 15993    0 15993    0     0   110k      0 --:--:-- --:--:-- --:--:--  110k
 => Start download photo_2019-11-1311.47.42.jpeg ...
 /home/lm/books/week117_我的孤独是一座花园/photo_2019-11-1311.47.42.jpeg
 => photo_2019-11-1311.47.42.jpeg exist. Skip.
@@ -1874,7 +1874,7 @@
 => Dir week118_永久档案 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11907    0 11907    0     0  77227      0 --:--:-- --:--:-- --:--:-- 77318
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 11907    0 11907    0     0  77794      0 --:--:-- --:--:-- --:--:-- 78335
 => Start download 永久记录.epub ...
 /home/lm/books/week118_永久档案/永久记录.epub
 => 永久记录.epub exist. Skip.
@@ -1891,7 +1891,7 @@
 => Dir week119_哥伦比亚中国文学史 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14357    0 14357    0     0   106k      0 --:--:-- --:--:-- --:--:--  107k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14357    0 14357    0     0  90718      0 --:--:-- --:--:-- --:--:-- 90867
 => Start download photo_2019-11-2609.32.18.jpeg ...
 /home/lm/books/week119_哥伦比亚中国文学史/photo_2019-11-2609.32.18.jpeg
 => photo_2019-11-2609.32.18.jpeg exist. Skip.
@@ -1911,7 +1911,7 @@
 => Dir week120_我们内心的冲突 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13954    0 13954    0     0   104k      0 --:--:-- --:--:-- --:--:--  104k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13954    0 13954    0     0  85643      0 --:--:-- --:--:-- --:--:-- 86135
 => Start download photo_2019-12-0214.27.25.jpeg ...
 /home/lm/books/week120_我们内心的冲突/photo_2019-12-0214.27.25.jpeg
 => photo_2019-12-0214.27.25.jpeg exist. Skip.
@@ -1931,7 +1931,7 @@
 => Dir week121_婚姻的意义 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13547    0 13547    0     0  86907      0 --:--:-- --:--:-- --:--:-- 86839
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13547    0 13547    0     0  92279      0 --:--:-- --:--:-- --:--:-- 92787
 => Start download photo_2019-12-1115.08.42.jpeg ...
 /home/lm/books/week121_婚姻的意义/photo_2019-12-1115.08.42.jpeg
 => photo_2019-12-1115.08.42.jpeg exist. Skip.
@@ -1951,7 +1951,7 @@
 => Dir week122_程序员的思维修炼 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13467    0 13467    0     0  83613      0 --:--:-- --:--:-- --:--:-- 84168
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13467    0 13467    0     0   101k      0 --:--:-- --:--:-- --:--:--  101k
 => Start download IMAGE2019-12-1711:52:37.jpg ...
 /home/lm/books/week122_程序员的思维修炼/IMAGE2019-12-1711:52:37.jpg
 => IMAGE2019-12-1711:52:37.jpg exist. Skip.
@@ -1968,7 +1968,7 @@
 => Dir week123_上来透口气 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13470    0 13470    0     0  88785      0 --:--:-- --:--:-- --:--:-- 89205
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 13470    0 13470    0     0  88429      0 --:--:-- --:--:-- --:--:-- 88618
 => Start download 上来透口气.azw3 ...
 /home/lm/books/week123_上来透口气/上来透口气.azw3
 => 上来透口气.azw3 exist. Skip.
@@ -1988,7 +1988,7 @@
 => Dir week124_不诚实的诚实真相 Exist. Skip.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14081    0 14081    0     0  99163      0 --:--:-- --:--:-- --:--:-- 99865
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 14081    0 14081    0     0  82837      0 --:--:-- --:--:-- --:--:-- 83319
 => Start download 不诚实的诚实真相.azw3 ...
 /home/lm/books/week124_不诚实的诚实真相/不诚实的诚实真相.azw3
 => 不诚实的诚实真相.azw3 exist. Skip.
@@ -2005,7 +2005,7 @@
 /home/lm/books/week124_不诚实的诚实真相/封面.jpeg
 => 封面.jpeg exist. Skip.
 
-=> Sun Jan 12 02:00:25 CST 2020. End sync book.
+=> Mon Jan 13 02:00:25 CST 2020. End sync book.
 
 
-=> Sun Jan 12 02:00:25 CST 2020. Start push to server.
+=> Mon Jan 13 02:00:25 CST 2020. Start push to server.
