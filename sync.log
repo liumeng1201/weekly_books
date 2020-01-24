@@ -1,9 +1,9 @@
-=> Fri Jan 24 02:00:01 CST 2020. Change work dir.
+=> Sat Jan 25 02:00:01 CST 2020. Change work dir.
 
-=> Fri Jan 24 02:00:01 CST 2020. Start sync book.
+=> Sat Jan 25 02:00:01 CST 2020. Start sync book.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
 curl: (60) Peer's Certificate has expired.
 More details here: http://curl.haxx.se/docs/sslcerts.html
 
@@ -17,7 +17,7 @@ If this HTTPS server uses a certificate signed by a CA represented in
  not match the domain name in the URL).
 If you'd like to turn off curl's verification of the certificate, use
  the -k (or --insecure) option.
-=> Fri Jan 24 02:00:01 CST 2020. End sync book.
+=> Sat Jan 25 02:00:01 CST 2020. End sync book.
 
 
-=> Fri Jan 24 02:00:01 CST 2020. Start push to server.
+=> Sat Jan 25 02:00:01 CST 2020. Start push to server.
