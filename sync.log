@@ -1,10 +1,10 @@
-=> Tue Jun 23 02:00:01 CST 2020. Change work dir.
+=> Wed Jun 24 02:00:01 CST 2020. Change work dir.
 
-=> Tue Jun 23 02:00:01 CST 2020. Start sync book.
+=> Wed Jun 24 02:00:01 CST 2020. Start sync book.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (7) Failed connect to ebooksplan.club:443; Connection refused
-=> Tue Jun 23 02:00:02 CST 2020. End sync book.
+=> Wed Jun 24 02:00:01 CST 2020. End sync book.
 
 
-=> Tue Jun 23 02:00:02 CST 2020. Start push to server.
+=> Wed Jun 24 02:00:01 CST 2020. Start push to server.
